@@ -71,40 +71,6 @@ GenerateClassCluster=0
 DocumentUniqueId=AAKTJWWY
 
 [Document3]
-DocumentPath=cgd_gio.schdoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MRSYPBRS
-
-[Document4]
-DocumentPath=ethernet.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AJLKVBEJ
-
-[Document5]
 DocumentPath=usb_uart.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,7 +87,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DJCAMMOA
 
-[Document6]
+[Document4]
 DocumentPath=supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DDUQGBPP
 
-[Document7]
+[Document5]
 DocumentPath=cgd_rif.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,24 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JJAQUAYS
 
-[Document8]
-DocumentPath=ethernet_connectors.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=8
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QGETLNOR
-
-[Document9]
+[Document6]
 DocumentPath=..\..\Dropbox\cadlib\protel\DEVELER.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document7]
 DocumentPath=..\..\Dropbox\cadlib\protel\DEVELER_Library.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document8]
 DocumentPath=develboard_sdk.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WJNHPKIP
 
-[Document12]
+[Document9]
 DocumentPath=develboard_sdk.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
