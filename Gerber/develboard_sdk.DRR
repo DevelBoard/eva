@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: develboard_sdk.PcbDoc   25/08/2015  16:58:30
+NCDrill File Report For: develboard_sdk.PcbDoc   01/09/2015  10:35:33
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -9,7 +9,7 @@ ASCII SlotHoles File : develboard_sdk-SlotHoles.TXT
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
 T1        0.25mm (9.842mil)        Round          4                8.10 mm (0.32 Inch)
-T2        0.3mm (11.811mil)        Round          911              2525.11 mm (99.41 Inch)
+T2        0.3mm (11.811mil)        Round          915              2538.18 mm (99.93 Inch)
 T3        0.35mm (13.78mil)        Round          5                4.60 mm (0.18 Inch)
 T4        0.8mm (31.496mil)        Slot           3                31.99 mm (1.26 Inch)
 T5        0.89mm (35.039mil)       Round          8                23.16 mm (0.91 Inch)
@@ -28,6 +28,6 @@ T17       3.25mm (127.953mil)      Round          2                11.43 mm (0.4
 T18       0.9mm (35.433mil)        Round          2         NPTH   4.40 mm (0.17 Inch)
 T19       1.5mm (59.055mil)        Round          2         NPTH   45.47 mm (1.79 Inch)
 ---------------------------------------------------------------------------
-Totals                                            993              3343.51 mm (131.63 Inch)
+Totals                                            997              3356.58 mm (132.15 Inch)
 
 Total Processing Time (hh:mm:ss) : 00:00:01

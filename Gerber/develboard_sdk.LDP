@@ -1,3 +1,3 @@
 Layer Pairs Export File for PCB: F:\src\develboard_sdk\develboard_sdk.PcbDoc
-LayersSetName=Top_Bot_Thru_Holes|DrillFile=develboard_sdk-roundholes.txt|DrillLayers=gtl,gp1,g2,gbl
-LayersSetName=Top_Bot_Slot_Holes|DrillFile=develboard_sdk-slotholes.txt|DrillLayers=gtl,gp1,g2,gbl
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=develboard_sdk-roundholes.txt|DrillLayers=gtl,g2,gp1,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=develboard_sdk-slotholes.txt|DrillLayers=gtl,g2,gp1,gbl

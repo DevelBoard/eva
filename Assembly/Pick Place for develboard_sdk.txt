@@ -1,5 +1,7 @@
 Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
 
+C50        1206_[3216]            54.3mm        56.1mm        54.3mm        56.1mm        54.3mm       54.75mm  B         90.00 10uF           
+C49        1206_[3216]            53.5mm        63.2mm        53.5mm        63.2mm        53.5mm       61.85mm  B         90.00 10uF           
            Develer_logo_15x6mm_botSolder   -268.2008mm   -163.6408mm        79.4mm        47.8mm   -268.2008mm   -163.6408mm  B         90.00                
            Develer_logo_15x6mm   -268.2008mm   -163.6408mm          19mm        30.9mm   -268.2008mm   -163.6408mm  T         90.00                
 SW1        TACTILE_SWITCH_6x6MM_SMD        77.7mm       101.8mm        77.7mm       101.8mm        82.2mm       99.55mm  T        270.00 RESET          
@@ -16,7 +18,7 @@ R150       0603_[1608]         81.8002mm       109.5mm        81.8mm       109.5
 D17        0603_[1608]_LED     81.8002mm       109.5mm        81.8mm       109.5mm     81.1002mm       109.5mm  T        360.00 +1.8V          
 U28        SOT-223                49.3mm        56.1mm        49.3mm        56.1mm          47mm          59mm  B        270.00 LM1117-18      
 L12        0805_[2012]            49.1mm        61.8mm        49.1mm        61.8mm        48.3mm        61.8mm  B        360.00 220 ohm @ 100MHz
-C74        0603_[1608]            54.3mm     55.1998mm        54.3mm        55.2mm        54.3mm     55.8998mm  B        270.00 100nF          
+C74        0603_[1608]         49.3002mm        50.6mm        49.3mm        50.6mm     48.6002mm        50.6mm  B        360.00 100nF          
 C73        0603_[1608]            51.6mm     62.4998mm        51.6mm        62.5mm        51.6mm     63.1998mm  B        270.00 100nF          
 C10        1206_[3216]            26.4mm        24.5mm        26.4mm        24.5mm       27.75mm        24.5mm  T        180.00 10uF           
 C11        0603_[1608]            30.3mm     25.1998mm        30.3mm        25.2mm        30.3mm     25.8998mm  B        270.00 100nF          
@@ -174,7 +176,7 @@ R58        0603_[1608]            27.9mm     42.3002mm        27.9mm        42.3
 R59        0603_[1608]            26.6mm     42.7002mm        26.6mm        42.7mm        26.6mm     42.0002mm  B         90.00 22R            
 R60        0603_[1608]            29.2mm     41.2002mm        29.2mm        41.2mm        29.2mm     40.5002mm  B         90.00 22R            
 R62        0603_[1608]            43.4mm     26.1002mm        43.4mm        26.1mm        43.4mm     25.4002mm  B         90.00 22R            
-J6         BATTERY_HOLDER_THD          59mm       109.5mm          59mm       109.5mm        48.4mm       109.5mm  T        360.00 Battery Holder 3002
+J6         Battery_holder_20mm_thd          59mm       109.5mm          59mm       109.5mm        69.6mm       109.5mm  T        360.00 Battery Holder 3002
 C12        1206_[3216]            35.5mm        63.1mm        35.5mm        63.1mm        35.5mm       61.75mm  B         90.00 1uF            
 L15        0805_[2012]            44.3mm        61.8mm        44.3mm        61.8mm        45.1mm        61.8mm  B        180.00 220 ohm @ 100MHz
 L16        0805_[2012]            54.3mm        52.4mm        54.3mm        52.4mm        54.3mm        51.6mm  B         90.00 220 ohm @ 100MHz
