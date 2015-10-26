@@ -1,9 +1,9 @@
 *************************************************************
-FileName = develboard_sdk.GBR
+FileName = develboard_eva.GBR
 AutoAperture = True
 *************************************************************
 Generating : Top Layer
-      File : develboard_sdk.GTL
+      File : develboard_eva.GTL
 
     Adding Layer      : Top Layer
 
@@ -73,7 +73,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Inner
-      File : develboard_sdk.G1
+      File : develboard_eva.G1
 
     Adding Layer      : Inner
 
@@ -90,18 +90,18 @@ Used DCodes :
     D45
     D46
     D47
-    D50
-    D53
-    D55
-    D60
-    D62
-    D63
+    D48
+    D51
+    D59
+    D61
+    D64
+    D65
     D66
 *************************************************************
 
 *************************************************************
 Generating : GND
-      File : develboard_sdk.GP1
+      File : develboard_eva.GP1
 
     Adding Layer      : GND
 
@@ -109,8 +109,8 @@ Generating : GND
 
 
 Used DCodes :
-    D40
-    D58
+    D41
+    D52
     D68
     D69
     D70
@@ -134,7 +134,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Bottom Layer
-      File : develboard_sdk.GBL
+      File : develboard_eva.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -143,12 +143,12 @@ Generating : Bottom Layer
 
 Used DCodes :
     D10
+    D11
     D12
-    D15
+    D13
+    D14
     D18
-    D19
-    D35
-    D36
+    D26
     D37
     D38
     D39
@@ -159,7 +159,7 @@ Used DCodes :
     D45
     D46
     D47
-    D49
+    D48
     D50
     D51
     D52
@@ -207,7 +207,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Top Overlay
-      File : develboard_sdk.GTO
+      File : develboard_eva.GTO
 
     Adding Layer      : Top Overlay
 
@@ -227,7 +227,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Top Paste
-      File : develboard_sdk.GTP
+      File : develboard_eva.GTP
 
     Adding Layer      : Top Paste
 
@@ -237,10 +237,10 @@ Generating : Top Paste
 
 
 Used DCodes :
+    D11
     D12
     D13
     D14
-    D15
     D16
     D17
     D18
@@ -249,6 +249,7 @@ Used DCodes :
     D21
     D22
     D23
+    D24
     D25
     D26
     D27
@@ -260,12 +261,11 @@ Used DCodes :
     D33
     D34
     D35
-    D36
 *************************************************************
 
 *************************************************************
 Generating : Top Solder
-      File : develboard_sdk.GTS
+      File : develboard_eva.GTS
 
     Adding Layer      : Top Solder
 
@@ -275,9 +275,9 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D54
+    D51
     D60
-    D65
+    D63
     D116
     D117
     D118
@@ -325,7 +325,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Bottom Solder
-      File : develboard_sdk.GBS
+      File : develboard_eva.GBS
 
     Adding Layer      : Bottom Solder
 
@@ -335,15 +335,15 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D54
+    D51
     D60
-    D65
+    D63
+    D116
     D117
-    D120
+    D118
+    D119
     D123
-    D124
-    D140
-    D141
+    D131
     D142
     D143
     D144
@@ -388,7 +388,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Bottom Paste
-      File : develboard_sdk.GBP
+      File : develboard_eva.GBP
 
     Adding Layer      : Bottom Paste
 
@@ -398,12 +398,12 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+    D11
     D12
-    D15
+    D13
+    D14
     D18
-    D19
-    D35
-    D36
+    D26
     D88
     D89
     D90
@@ -431,19 +431,19 @@ Used DCodes :
 
 *************************************************************
 Generating : Bottom Overlay
-      File : develboard_sdk.GBO
+      File : develboard_eva.GBO
 
     Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
     D10
-    D37
+    D38
     D39
     D40
     D41
-    D113
-    D114
+    D112
+    D115
     D182
     D183
     D184
@@ -451,7 +451,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Outline
-      File : develboard_sdk.GM1
+      File : develboard_eva.GM1
 
     Adding Layer      : Outline
 
@@ -462,7 +462,7 @@ Used DCodes :
 
 *************************************************************
 Generating : PCB_Note
-      File : develboard_sdk.GM7
+      File : develboard_eva.GM7
 
     Adding Layer      : PCB_Note
 
@@ -473,7 +473,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Drill Drawing
-      File : develboard_sdk.GD1
+      File : develboard_eva.GD1
 
     Adding Drill Pair : Top Layer-Bottom Layer
 
@@ -487,7 +487,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Drill Guide
-      File : develboard_sdk.GG1
+      File : develboard_eva.GG1
 
     Adding Drill Pair : Top Layer-Bottom Layer
 
@@ -495,6 +495,6 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D114
+    D115
 *************************************************************
 

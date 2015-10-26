@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: F:\src\develboard_sdk\develboard_sdk.PcbDoc
+DRC Rules Export File for PCB: F:\src\db-eva\develboard_eva.PcbDoc
 RuleKind=Clearance|RuleName=Clearance_ethconn|Scope=Board|Minimum=9.84
 RuleKind=Clearance|RuleName=Clearance_room_015|Scope=Board|Minimum=5.91
 RuleKind=Clearance|RuleName=Clearance_components_015|Scope=Board|Minimum=5.91

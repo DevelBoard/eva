@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=develboard_sdk.OutJob
+Name=develboard_eva.OutJob
 Description=
-TargetOutputMedium=Assembly
+TargetOutputMedium=Assembly_pdf
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
-TargetPrinter=PDFCreator
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -38,7 +38,7 @@ OutputMedium5_Type=GeneratedFiles
 OutputMedium6=3D
 OutputMedium6_Type=Publish
 OutputType1=Schematic Print
-OutputName1=sdk_schematic
+OutputName1=schematic_eva
 OutputCategory1=Documentation
 OutputDocumentPath1=[Project Physical Documents]
 OutputVariantName1=
@@ -54,11 +54,11 @@ PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=False|ShowProbe=False|ShowBlanket=False|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType2=PCB 3D Print
-OutputName2=sdk_3d_top
+OutputName2=3d_top
 OutputCategory2=Documentation
 OutputDocumentPath2=
 OutputVariantName2=
-OutputEnabled2=0
+OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=3
 OutputEnabled2_OutputMedium3=0
@@ -70,11 +70,11 @@ PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=108589974|ViewY=60570287|LookAtX=119949816|LookAtY=82364272|LookAtZ=-3312457|QuatX=-0.255476623773575|QuatY=-0.153166219592094|QuatZ=0.0296494737267494|QuatW=0.954144954681396|Zoom=2.01583988014501E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Altium%203D%20Blue%20Configuration\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3SYSTEM\2CFG3D.SHOWCOMPONENTSTEPMODELS\3SYSTEM\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTSNAPMARKERS\3FALSE\2CFG3D.SHOWCOMPONENTAXES\3FALSE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32000\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\316777215\2CFG3D.BOARDCORECOLOR\313761015\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\37026967\2CFG3D.BOTSOLDERMASKCOLOR\37026967\2CFG3D.COPPERCOLOR\33323360\2CFG3D.TOPSILKSCREENCOLOR\315461355\2CFG3D.BOTSILKSCREENCOLOR\315461355\2CFG3D.WORKSPACELUMINANCEVARIATION\312\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.890000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.860000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\31.000000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000
 OutputType3=Assembly
-OutputName3=sdk_assembly
+OutputName3=assembly
 OutputCategory3=Assembly
 OutputDocumentPath3=
 OutputVariantName3=
-OutputEnabled3=0
+OutputEnabled3=1
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=2
 OutputEnabled3_OutputMedium3=0
@@ -140,11 +140,11 @@ OutputDefault5=0
 Configuration5_Name1=OutputConfigurationParameter1
 Configuration5_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
 OutputType6=Assembly
-OutputName6=sdk_mechanical
+OutputName6=mechanical
 OutputCategory6=Assembly
 OutputDocumentPath6=
 OutputVariantName6=
-OutputEnabled6=0
+OutputEnabled6=1
 OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=1
 OutputEnabled6_OutputMedium3=0
@@ -166,7 +166,7 @@ OutputName7=bom
 OutputCategory7=Report
 OutputDocumentPath7=
 OutputVariantName7=
-OutputEnabled7=1
+OutputEnabled7=0
 OutputEnabled7_OutputMedium1=0
 OutputEnabled7_OutputMedium2=0
 OutputEnabled7_OutputMedium3=0
@@ -190,11 +190,11 @@ Configuration7_Item6=Designator=Up|Comment=Up|Footprint=Up
 Configuration7_Name7=VisibleOrder
 Configuration7_Item7=Comment=100|Description=100|Designator=100|Footprint=100|LibRef=100|Quantity=100
 OutputType8=Pick Place
-OutputName8=sdk_pick
+OutputName8=pick
 OutputCategory8=Assembly
 OutputDocumentPath8=
 OutputVariantName8=
-OutputEnabled8=1
+OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
 OutputEnabled8_OutputMedium2=0
 OutputEnabled8_OutputMedium3=0
@@ -205,7 +205,7 @@ OutputDefault8=0
 Configuration8_Name1=OutputConfigurationParameter1
 Configuration8_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=False|GenerateTextFormat=True
 OutputType9=Assembly
-OutputName9=sdk_print
+OutputName9=print_eva
 OutputCategory9=Assembly
 OutputDocumentPath9=
 OutputVariantName9=
@@ -257,7 +257,7 @@ Configuration9_Item18=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Ful
 Configuration9_Name19=OutputConfigurationParameter19
 Configuration9_Item19=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopPaste|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer
 OutputType10=Board Stack Report
-OutputName10=sdk_board_stack
+OutputName10=board_stack
 OutputCategory10=Fabrication
 OutputDocumentPath10=
 OutputVariantName10=
@@ -273,7 +273,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 Configuration10_Name1=OutputConfigurationParameter1
 Configuration10_Item1=Record=LayerStackReportView|Units=Metric
 OutputType11=Final
-OutputName11=sdk_gerber
+OutputName11=gerber
 OutputCategory11=Fabrication
 OutputDocumentPath11=
 OutputVariantName11=
@@ -439,11 +439,11 @@ Configuration11_Item75=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Fu
 Configuration11_Name76=OutputConfigurationParameter76
 Configuration11_Item76=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=22|Record=PcbPrintLayer
 OutputType12=PCB 3D Print
-OutputName12=sdk_3d_bot
+OutputName12=3d_bot
 OutputCategory12=Documentation
 OutputDocumentPath12=
 OutputVariantName12=
-OutputEnabled12=0
+OutputEnabled12=1
 OutputEnabled12_OutputMedium1=0
 OutputEnabled12_OutputMedium2=4
 OutputEnabled12_OutputMedium3=0
@@ -456,7 +456,7 @@ Configuration12_Name1=OutputConfigurationParameter1
 Configuration12_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=108589975|ViewY=60570287|LookAtX=134462304|LookAtY=86370080|LookAtZ=-6827639|QuatX=0.0296494644135237|QuatY=0.954145014286041|QuatZ=0.255476623773575|QuatW=0.153166264295578|Zoom=2.01583986915131E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Altium%203D%20Blue%20Configuration\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3SYSTEM\2CFG3D.SHOWCOMPONENTSTEPMODELS\3SYSTEM\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTSNAPMARKERS\3FALSE\2CFG3D.SHOWCOMPONENTAXES\3FALSE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3FALSE\2CFG3D.EYEDIST\32000\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\316777215\2CFG3D.BOARDCORECOLOR\313761015\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\37026967\2CFG3D.BOTSOLDERMASKCOLOR\37026967\2CFG3D.COPPERCOLOR\33323360\2CFG3D.TOPSILKSCREENCOLOR\315461355\2CFG3D.BOTSILKSCREENCOLOR\315461355\2CFG3D.WORKSPACELUMINANCEVARIATION\312\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.890000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.860000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\31.000000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000
 
 [PublishSettings]
-OutputFilePath2=F:\src\develboard_sdk\.\Assembly\carrier.PDF
+OutputFilePath2=F:\src\db-eva\.\Assembly\develboard_eva.PDF
 ReleaseManaged2=0
 OutputBasePath2=.\
 OutputPathMedia2=Assembly
@@ -464,7 +464,7 @@ OutputPathMediaValue2=Assembly
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=develboard_sdk
+OutputFileName2=develboard_eva
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
@@ -481,7 +481,7 @@ MarkPortsId2=0
 GenerateTOC=1
 ShowComponentParameters2=1
 GlobalBookmarks2=0
-OutputFilePath3=F:\src\cgd\schematics\.\Pdf\
+OutputFilePath3=F:\src\db-eva\.\Pdf\
 ReleaseManaged3=0
 OutputBasePath3=.\
 OutputPathMedia3=[Media Name]
@@ -505,7 +505,7 @@ MarkNetLabels3=1
 MarkPortsId3=1
 ShowComponentParameters3=1
 GlobalBookmarks3=0
-OutputFilePath4=F:\src\develboard_sdk\.\Assembly\
+OutputFilePath4=F:\src\db-eva\.\Assembly\
 ReleaseManaged4=0
 OutputBasePath4=.\
 OutputPathMedia4=[Media Name]
@@ -518,7 +518,7 @@ OutputFileNameMulti4=develboard-sdk
 UseOutputNameForMulti4=1
 OutputFileNameSpecial4=
 OpenOutput4=0
-OutputFilePath5=F:\src\develboard_sdk\.\Gerber\
+OutputFilePath5=F:\src\db-eva\.\Gerber\
 ReleaseManaged5=0
 OutputBasePath5=.\
 OutputPathMedia5=[Media Name]
@@ -531,7 +531,7 @@ OutputFileNameMulti5=
 UseOutputNameForMulti5=1
 OutputFileNameSpecial5=
 OpenOutput5=0
-OutputFilePath6=F:\src\cgd\schematics\.\cgd.PDF
+OutputFilePath6=F:\src\db-eva\.\Drawing\develboard-eva.PDF
 ReleaseManaged6=0
 OutputBasePath6=.\
 OutputPathMedia6=Drawing
@@ -539,10 +539,10 @@ OutputPathMediaValue6=Drawing
 OutputPathOutputer6=[Output Type]
 OutputPathOutputerPrefix6=
 OutputPathOutputerValue6=
-OutputFileName6=cgd.PDF
+OutputFileName6=develboard_eva_3d
 OutputFileNameMulti6=
 UseOutputNameForMulti6=0
-OutputFileNameSpecial6==ProjectName
+OutputFileNameSpecial6=
 OpenOutput6=1
 PromptOverwrite6=1
 PublishMethod6=0
@@ -557,11 +557,11 @@ ShowComponentParameters6=1
 GlobalBookmarks6=0
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=F:\src\develboard_sdk\.\Assembly\carrier.PDF
+RelativeOutputPath2=F:\src\db-eva\.\Assembly\develboard_eva.PDF
 OpenOutputs2=0
-RelativeOutputPath3=F:\src\cgd\schematics\.\Pdf\
+RelativeOutputPath3=F:\src\db-eva\.\Pdf\
 OpenOutputs3=0
-RelativeOutputPath4=F:\src\develboard_sdk\.\Assembly\
+RelativeOutputPath4=F:\src\db-eva\.\Assembly\
 OpenOutputs4=0
 AddToProject4=1
 TimestampFolder4=0
@@ -571,7 +571,7 @@ OpenGerberOutput4=0
 OpenNCDrillOutput4=0
 OpenIPCOutput4=0
 EnableReload4=0
-RelativeOutputPath5=F:\src\develboard_sdk\.\Gerber\
+RelativeOutputPath5=F:\src\db-eva\.\Gerber\
 OpenOutputs5=0
 AddToProject5=1
 TimestampFolder5=0
@@ -581,6 +581,6 @@ OpenGerberOutput5=0
 OpenNCDrillOutput5=0
 OpenIPCOutput5=0
 EnableReload5=0
-RelativeOutputPath6=F:\src\cgd\schematics\.\cgd.PDF
+RelativeOutputPath6=F:\src\db-eva\.\Drawing\develboard-eva.PDF
 OpenOutputs6=1
 
