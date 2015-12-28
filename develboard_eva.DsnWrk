@@ -2,3 +2,5 @@
 Version=1.0
 [Project1]
 ProjectPath=develboard-eva.PrjPcb
+[Project2]
+ProjectPath=shield_can-display\shield_can-display.PrjPcb
