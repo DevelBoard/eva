@@ -4,3 +4,5 @@ Version=1.0
 ProjectPath=develboard-eva.PrjPcb
 [Project2]
 ProjectPath=shield_can-display\shield_can-display.PrjPcb
+[Project3]
+ProjectPath=shield_lcd4.3\shield_lcd4.3.PrjPcb
