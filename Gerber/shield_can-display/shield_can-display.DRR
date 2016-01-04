@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: shield_can-display.PcbDoc   04/01/2016  17:28:01
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : shield_can-display.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          177              959.52 mm (37.78 Inch)
+T2        0.9mm (35.433mil)        Round          2                2.54 mm (0.10 Inch)
+T3        1.09mm (42.913mil)       Round          9                30.86 mm (1.21 Inch)
+T4        1.4mm (55.118mil)        Round          6                27.00 mm (1.06 Inch)
+T5        3.2mm (125.984mil)       Round          8                656.40 mm (25.84 Inch)
+T6        3.26mm (128.346mil)      Round          2                24.99 mm (0.98 Inch)
+---------------------------------------------------------------------------
+Totals                                            204              1701.30 mm (66.98 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
