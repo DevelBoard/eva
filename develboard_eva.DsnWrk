@@ -6,3 +6,5 @@ ProjectPath=develboard-eva.PrjPcb
 ProjectPath=shield_can-display\shield_can-display.PrjPcb
 [Project3]
 ProjectPath=shield_lcd4.3\shield_lcd4.3.PrjPcb
+[Project4]
+ProjectPath=..\MergeBom\altium\MergeBom.PrjScr
