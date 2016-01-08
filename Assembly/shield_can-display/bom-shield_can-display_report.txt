@@ -1,0 +1,18 @@
+
+
+#     #                             ######
+##   ## ###### #####   ####  ###### #     #  ####  #    #
+# # # # #      #    # #    # #      #     # #    # ##  ##
+#  #  # #####  #    # #      #####  ######  #    # # ## #
+#     # #      #####  #  ### #      #     # #    # #    #
+#     # #      #   #  #    # #      #     # #    # #    #
+#     # ###### #    #  ####  ###### ######   ####  #    #
+
+
+Report file.
+Date: Fri 08 January 2016 14:45:28
+Directory: F:\src\db-eva\Assembly\shield_can-display
+Revision: NN
+Project Name: NN
+
+F:\src\db-eva\Assembly\shield_can-display\bom-shield_can-display.xls
