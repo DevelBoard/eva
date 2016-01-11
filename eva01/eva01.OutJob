@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=eva01.OutJob
 Description=
-TargetOutputMedium=Pdf
+TargetOutputMedium=Assembly_pdf
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
@@ -38,11 +38,11 @@ OutputMedium5_Type=GeneratedFiles
 OutputMedium6=3D
 OutputMedium6_Type=Publish
 OutputType1=Schematic Print
-OutputName1=schematic_eva
+OutputName1=eva01_shematics
 OutputCategory1=Documentation
 OutputDocumentPath1=[Project Physical Documents]
 OutputVariantName1=
-OutputEnabled1=1
+OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=0
 OutputEnabled1_OutputMedium3=1
@@ -58,7 +58,7 @@ OutputName2=3d_top
 OutputCategory2=Documentation
 OutputDocumentPath2=
 OutputVariantName2=
-OutputEnabled2=0
+OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=3
 OutputEnabled2_OutputMedium3=0
@@ -74,7 +74,7 @@ OutputName3=assembly
 OutputCategory3=Assembly
 OutputDocumentPath3=
 OutputVariantName3=
-OutputEnabled3=0
+OutputEnabled3=1
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=2
 OutputEnabled3_OutputMedium3=0
@@ -144,7 +144,7 @@ OutputName6=mechanical
 OutputCategory6=Assembly
 OutputDocumentPath6=
 OutputVariantName6=
-OutputEnabled6=0
+OutputEnabled6=1
 OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=1
 OutputEnabled6_OutputMedium3=0
@@ -205,11 +205,11 @@ OutputDefault8=0
 Configuration8_Name1=OutputConfigurationParameter1
 Configuration8_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=False|GenerateTextFormat=True
 OutputType9=Assembly
-OutputName9=print_eva
+OutputName9=eva01_print
 OutputCategory9=Assembly
 OutputDocumentPath9=
 OutputVariantName9=
-OutputEnabled9=1
+OutputEnabled9=0
 OutputEnabled9_OutputMedium1=1
 OutputEnabled9_OutputMedium2=0
 OutputEnabled9_OutputMedium3=3
@@ -273,11 +273,11 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 Configuration10_Name1=OutputConfigurationParameter1
 Configuration10_Item1=Record=LayerStackReportView|Units=Metric
 OutputType11=Final
-OutputName11=gerber
+OutputName11=eva01_gerber
 OutputCategory11=Fabrication
 OutputDocumentPath11=
 OutputVariantName11=
-OutputEnabled11=1
+OutputEnabled11=0
 OutputEnabled11_OutputMedium1=0
 OutputEnabled11_OutputMedium2=0
 OutputEnabled11_OutputMedium3=2
@@ -443,7 +443,7 @@ OutputName12=3d_bot
 OutputCategory12=Documentation
 OutputDocumentPath12=
 OutputVariantName12=
-OutputEnabled12=0
+OutputEnabled12=1
 OutputEnabled12_OutputMedium1=0
 OutputEnabled12_OutputMedium2=4
 OutputEnabled12_OutputMedium3=0
@@ -456,7 +456,7 @@ Configuration12_Name1=OutputConfigurationParameter1
 Configuration12_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=108589975|ViewY=60570287|LookAtX=134462304|LookAtY=86370080|LookAtZ=-6827639|QuatX=0.0296494644135237|QuatY=0.954145014286041|QuatZ=0.255476623773575|QuatW=0.153166264295578|Zoom=2.01583986915131E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Altium%203D%20Blue%20Configuration\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3SYSTEM\2CFG3D.SHOWCOMPONENTSTEPMODELS\3SYSTEM\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTSNAPMARKERS\3FALSE\2CFG3D.SHOWCOMPONENTAXES\3FALSE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32000\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\37368816\2CFG3D.BOARDCORECOLOR\313761015\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\316777215\2CFG3D.BOTSOLDERMASKCOLOR\316777215\2CFG3D.COPPERCOLOR\33323360\2CFG3D.TOPSILKSCREENCOLOR\31052688\2CFG3D.BOTSILKSCREENCOLOR\30\2CFG3D.WORKSPACELUMINANCEVARIATION\312\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.890000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.860000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\31.000000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000
 
 [PublishSettings]
-OutputFilePath2=F:\src\db-eva\Assembly\Assembly\develboard_eva.PDF
+OutputFilePath2=F:\src\db-eva\Assembly\eva01\develboard_eva.PDF
 ReleaseManaged2=0
 OutputBasePath2=..\Assembly\
 OutputPathMedia2==ProjectName
@@ -464,10 +464,10 @@ OutputPathMediaValue2==ProjectName
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=develboard_eva
+OutputFileName2=eva01.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
-OutputFileNameSpecial2=
+OutputFileNameSpecial2==projectName
 OpenOutput2=0
 PromptOverwrite2=1
 PublishMethod2=0
@@ -481,7 +481,7 @@ MarkPortsId2=0
 GenerateTOC=1
 ShowComponentParameters2=1
 GlobalBookmarks2=0
-OutputFilePath3=F:\src\db-eva\Pdf\Pdf\
+OutputFilePath3=F:\src\db-eva\Pdf\eva01\
 ReleaseManaged3=0
 OutputBasePath3=..\Pdf\
 OutputPathMedia3==ProjectName
@@ -557,9 +557,9 @@ ShowComponentParameters6=1
 GlobalBookmarks6=0
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=F:\src\db-eva\Assembly\Assembly\develboard_eva.PDF
+RelativeOutputPath2=F:\src\db-eva\Assembly\eva01\develboard_eva.PDF
 OpenOutputs2=0
-RelativeOutputPath3=F:\src\db-eva\Pdf\Pdf\
+RelativeOutputPath3=F:\src\db-eva\Pdf\eva01\
 OpenOutputs3=0
 RelativeOutputPath4=F:\src\db-eva\Assembly\eva01\
 OpenOutputs4=0

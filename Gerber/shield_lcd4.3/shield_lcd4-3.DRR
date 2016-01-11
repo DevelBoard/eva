@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: shield_lcd4-3.PcbDoc   11/01/2016  14:59:18
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : shield_lcd4-3.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          113              514.87 mm (20.27 Inch)
+T2        3.2mm (125.984mil)       Round          4                364.77 mm (14.36 Inch)
+---------------------------------------------------------------------------
+Totals                                            117              879.64 mm (34.63 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
