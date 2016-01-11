@@ -122,82 +122,78 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=..\Assembly\shield_can-display\bom-shield_can-display.xls
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=..\Assembly\shield_can-display\Pick Place for shield_can-display.txt
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=..\Gerber\shield_can-display\shield_can-display.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=..\Gerber\shield_can-display\shield_can-display.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=..\Gerber\shield_can-display\shield_can-display.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=..\Gerber\shield_can-display\shield_can-display.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=..\Gerber\shield_can-display\shield_can-display.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=..\Gerber\shield_can-display\shield_can-display.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=..\Gerber\shield_can-display\shield_can-display.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=..\Gerber\shield_can-display\shield_can-display.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=..\Gerber\shield_can-display\shield_can-display.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=..\Gerber\shield_can-display\shield_can-display.GM7
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=..\Gerber\shield_can-display\shield_can-display.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=..\Gerber\shield_can-display\shield_can-display.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=..\Gerber\shield_can-display\shield_can-display.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=..\Gerber\shield_can-display\shield_can-display.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=..\Gerber\shield_can-display\shield_can-display.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=..\Gerber\shield_can-display\shield_can-display.REP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=..\Gerber\shield_can-display\shield_can-display.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument19]
 DocumentPath=..\Gerber\shield_can-display\shield_can-display.TXT
 DItemRevisionGUID=
 
