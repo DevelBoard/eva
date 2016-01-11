@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: display_shield_pannel.PcbDoc   11/01/2016  11:28:30
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : display_shield_pannel.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          406              2273.69 mm (89.52 Inch)
+T2        0.9mm (35.433mil)        Round          2                2.54 mm (0.10 Inch)
+T3        1.09mm (42.913mil)       Round          9                22.55 mm (0.89 Inch)
+T4        1.4mm (55.118mil)        Round          6                34.00 mm (1.34 Inch)
+T5        3.2mm (125.984mil)       Round          16               966.31 mm (38.04 Inch)
+T6        3.26mm (128.346mil)      Round          2                24.99 mm (0.98 Inch)
+T7        0.3mm (11.811mil)        Round          12        NPTH   152.50 mm (6.00 Inch)
+---------------------------------------------------------------------------
+Totals                                            453              3476.59 mm (136.87 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:02
