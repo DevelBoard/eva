@@ -1,11 +1,11 @@
 Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
 
-_1         Fiducial_mark           175mm         122mm         175mm         122mm         175mm         122mm  B        180.00                
-2_1        Fiducial_mark           175mm           3mm         175mm           3mm         175mm           3mm  B        180.00                
-4_1        Fiducial_mark             3mm          10mm           3mm          10mm           3mm          10mm  B        180.00                
-4          Fiducial_mark           182mm          10mm         182mm          10mm         182mm          10mm  T        360.00                
-2          Fiducial_mark            10mm           3mm          10mm           3mm          10mm           3mm  T        360.00                
-           Fiducial_mark            10mm         122mm          10mm         122mm          10mm         122mm  T        360.00                
+_1         Fiducial_mark           182mm         116mm         182mm         116mm         182mm         116mm  B        180.00                
+2_1        Fiducial_mark           182mm          10mm         182mm          10mm         182mm          10mm  B        180.00                
+4_1        Fiducial_mark             9mm           3mm           9mm           3mm           9mm           3mm  B        180.00                
+4          Fiducial_mark           175mm           3mm         175mm           3mm         175mm           3mm  T        360.00                
+2          Fiducial_mark             3mm          10mm           3mm          10mm           3mm          10mm  T        360.00                
+           Fiducial_mark             3mm         116mm           3mm         116mm           3mm         116mm  T        360.00                
 SW1        TACTILE_SWITCH_6x6MM_SMD        49.5mm         7.5mm        49.5mm         7.5mm       47.25mm          12mm  B        180.00 RESET          
 R44        0603_[1608]            47.2mm     14.7002mm        47.2mm        14.7mm        47.2mm     14.0002mm  B         90.00 22R            
 C22        0603_[1608]            48.6mm     14.6998mm        48.6mm        14.7mm        48.6mm     15.3998mm  B        270.00 100nF          
