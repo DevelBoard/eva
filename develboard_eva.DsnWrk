@@ -3,8 +3,8 @@ Version=1.0
 [Project1]
 ProjectPath=shield_can-display\shield_can-display.PrjPcb
 [Project2]
-ProjectPath=shield_lcd4.3\shield_lcd4.3.PrjPcb
-[Project3]
 ProjectPath=display_shield_pannel\display_shield_pannel.PrjPcb
-[Project4]
+[Project3]
 ProjectPath=eva01\eva01.PrjPcb
+[Project4]
+ProjectPath=shield_display_4.3\shield_display_4.3.PrjPcb
