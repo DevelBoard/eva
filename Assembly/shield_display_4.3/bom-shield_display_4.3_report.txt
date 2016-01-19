@@ -1,0 +1,47 @@
+
+
+#     #                             ######
+##   ## ###### #####   ####  ###### #     #  ####  #    #
+# # # # #      #    # #    # #      #     # #    # ##  ##
+#  #  # #####  #    # #      #####  ######  #    # # ## #
+#     # #      #####  #  ### #      #     # #    # #    #
+#     # #      #   #  #    # #      #     # #    # #    #
+#     # ###### #    #  ####  ###### ######   ####  #    #
+
+
+Report file.
+Date: Tue 19 January 2016 11:11:10
+Directory: Assembly/shield_display_4.3
+Project Name: EVA01 Shield Display 4.3''
+Hardware Revision: 1
+PCB Revision: A
+
+Assembly/shield_display_4.3/bom-shield_display_4.3.xls
+SRC file: Assembly/shield_display_4.3\tmp_bom-shield_display_4.3.xls
+OUT file: Assembly/shield_display_4.3\bom-shield_display_4.3.xls
+
+Check Merged items:
+--------------------------------------------------------------------------------
+>>  Assembly/shield_display_4.3\tmp_bom-shield_display_4.3.xls
+>>  Merged key: 40-pin, 0.5mm, SMT, ZIF, Horizontal, Top Contact (WE 68714014022; Molex: 54104-4031)fcc-zif_40pin_0.5mm (Connector)
+>>  Merged key: Socket Header, 26 pin, 13x2, 2.54mm, H=8.5mmSOCKET_2x26_2.54MM_SMD (Connector)
+>>  Merged key: Pin header 26x2SOCKET_2x26_2.54MM_SMD (Connector)
+>>  Merged key: Pin header 26x2SOCKET_2x26_2.54MM_SMD (Connector)
+
+
+================================================================================
+ File num: 1
+
+-  C  Capacitors
+       C     7
+-  J  Connectors
+       J     4
+-  L  Inductors, chokes
+       L     1
+-  R  Resistors
+       R    13
+-  U  IC
+       U     2
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>>  Total: 27

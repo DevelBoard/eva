@@ -1,0 +1,71 @@
+
+
+#     #                             ######
+##   ## ###### #####   ####  ###### #     #  ####  #    #
+# # # # #      #    # #    # #      #     # #    # ##  ##
+#  #  # #####  #    # #      #####  ######  #    # # ## #
+#     # #      #####  #  ### #      #     # #    # #    #
+#     # #      #   #  #    # #      #     # #    # #    #
+#     # ###### #    #  ####  ###### ######   ####  #    #
+
+
+Report file.
+Date: Tue 19 January 2016 10:26:56
+Directory: Assembly/eva01
+Project Name: EVA01 Evaluation board for DevelBoard
+Hardware Revision: 2
+PCB Revision: B
+
+Assembly/eva01/bom-eva01.xls
+SRC file: Assembly/eva01\tmp_bom-eva01.xls
+OUT file: Assembly/eva01\bom-eva01.xls
+
+Check Merged items:
+--------------------------------------------------------------------------------
+>>  Assembly/eva01\tmp_bom-eva01.xls
+>>  Merged key: Mini USB SMT Type B 5 Contacts (WE 65100516121)usb_typeB_mini_smd (Connector)
+>>  Merged key: Pin Header, 2pin, 1x2, 2.54mm, THDHEADER_1X2_2.54MM_THD (Connector)
+>>  Merged key: CR1612/1616/1620/1632 (3013, Keystone)Battery_holder_16mm_thd (Connector)
+>>  Merged key: Pin header 26x2 Stacked > 16mmHEADER_2x26_2.54MM_THD (Connector)
+>>  Merged key: Pin header 26x2 Stacked > 16mmHEADER_2x26_2.54MM_THD (Connector)
+>>  Merged key: Terminal block Header 3.5mm Horizontal (WE 691322110002)TBLOCK_1X2_3.5MM_HOR_THD (Connector)
+>>  Merged key: WR-DC_DC Power Jack_Right Angled_THT (WE  694108301002)DC_Jack_6.5x2.5mm_right_tht (Connector)
+!!  Not Populate connector, leave unmerged..[NP (ANT_WLAN_2)] [J15] match[u'NP']
+>>  Merged key: SMA, Jack, Right angle, PCB socket, 50ohm (TE 5-1814400-1) NP  (ANT_WLAN_2)SMA_Jack_Female_5.08mm_THD ( NP  (ANT_WLAN_2))
+>>  Merged key: WR-CRD Micro SD_Push and Push (693071010811)micro_sd_holder_pp (Connector)
+>>  Merged key: Pin header 26x2 Stacked > 16mmHEADER_2x26_2.54MM_THD (Connector)
+>>  Merged key: SMA, Jack, Right angle, PCB socket, 50ohm (TE 5-1814400-1)SMA_Jack_Female_5.08mm_THD (Connector)
+>>  Merged key: USB Type-A Double Connector (WE  61400826021)USB_TypeA_Double_THD (Connector)
+>>  Merged key: Integrated RJ45 Transformer WE-RJ45LAN (WE 74990111217)RJ45_lan_transformer_horizontal (Connector)
+>>  Merged key: Pin Header, 4pin, 2x2, 2.54mm, THDHEADER_2X2_2.54MM_THD (Connector)
+>>  Merged key: LED Green0603_[1608]_LED (+1.8V)
+>>  Merged key: LED Green0603_[1608]_LED (Vusb)
+>>  Merged key: LED Green0603_[1608]_LED (+5V)
+>>  Merged key: LED Green0603_[1608]_LED (+3.3V)
+>>  Merged key: LED Green0603_[1608]_LED (+24V)
+
+
+================================================================================
+ File num: 1
+
+-  C  Capacitors
+       C    52
+-  D  Diodes
+       D     9
+-  J  Connectors
+       J    14
+-  L  Inductors, chokes
+       L    21
+-  Q  Transistors
+       Q     1
+-  S  Mechanical parts and buttons
+       S     1
+-  R  Resistors
+       R    75
+-  DZ Zener, Schottky, Transil
+      DZ     1
+-  U  IC
+       U    13
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>>  Total: 187
