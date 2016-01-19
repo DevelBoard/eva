@@ -464,10 +464,10 @@ OutputPathMediaValue2==projectName
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=develboard_eva
+OutputFileName2=shield_can-diplay.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
-OutputFileNameSpecial2=
+OutputFileNameSpecial2==projectName
 OpenOutput2=0
 PromptOverwrite2=1
 PublishMethod2=0
@@ -481,7 +481,7 @@ MarkPortsId2=0
 GenerateTOC=1
 ShowComponentParameters2=1
 GlobalBookmarks2=0
-OutputFilePath3=F:\src\db-eva\Pdf\Pdf\
+OutputFilePath3=F:\src\db-eva\Pdf\shield_can-display\
 ReleaseManaged3=0
 OutputBasePath3=..\Pdf\
 OutputPathMedia3==ProjectName
@@ -531,7 +531,7 @@ OutputFileNameMulti5=
 UseOutputNameForMulti5=1
 OutputFileNameSpecial5=
 OpenOutput5=0
-OutputFilePath6=F:\src\db-eva\Drawing\Drawing\develboard_eva_3d.PDF
+OutputFilePath6=F:\src\db-eva\Drawing\shield_can-display\develboard_eva_3d.PDF
 ReleaseManaged6=0
 OutputBasePath6=..\Drawing\
 OutputPathMedia6==projectName
@@ -539,10 +539,10 @@ OutputPathMediaValue6==projectName
 OutputPathOutputer6=[Output Type]
 OutputPathOutputerPrefix6=
 OutputPathOutputerValue6=
-OutputFileName6=develboard_eva_3d
+OutputFileName6=shield_can-diplay.PDF
 OutputFileNameMulti6=
 UseOutputNameForMulti6=0
-OutputFileNameSpecial6=
+OutputFileNameSpecial6==projectName
 OpenOutput6=1
 PromptOverwrite6=1
 PublishMethod6=0
@@ -559,7 +559,7 @@ GlobalBookmarks6=0
 [GeneratedFilesSettings]
 RelativeOutputPath2=F:\src\db-eva\Assembly\shield_can-display\develboard_eva.PDF
 OpenOutputs2=0
-RelativeOutputPath3=F:\src\db-eva\Pdf\Pdf\
+RelativeOutputPath3=F:\src\db-eva\Pdf\shield_can-display\
 OpenOutputs3=0
 RelativeOutputPath4=F:\src\db-eva\Assembly\shield_can-display\
 OpenOutputs4=0
@@ -581,6 +581,6 @@ OpenGerberOutput5=0
 OpenNCDrillOutput5=0
 OpenIPCOutput5=0
 EnableReload5=0
-RelativeOutputPath6=F:\src\db-eva\Drawing\Drawing\develboard_eva_3d.PDF
+RelativeOutputPath6=F:\src\db-eva\Drawing\shield_can-display\develboard_eva_3d.PDF
 OpenOutputs6=1
 
