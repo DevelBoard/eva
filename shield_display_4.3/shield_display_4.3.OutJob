@@ -38,7 +38,7 @@ OutputMedium5_Type=GeneratedFiles
 OutputMedium6=3D
 OutputMedium6_Type=Publish
 OutputType1=Schematic Print
-OutputName1=schematic_shield_can-display
+OutputName1=schematic_shield_display_4.3
 OutputCategory1=Documentation
 OutputDocumentPath1=[Project Physical Documents]
 OutputVariantName1=
@@ -205,7 +205,7 @@ OutputDefault8=0
 Configuration8_Name1=OutputConfigurationParameter1
 Configuration8_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=False|GenerateTextFormat=True
 OutputType9=Assembly
-OutputName9=print_shield_can-display
+OutputName9=print_shield_display_4.3
 OutputCategory9=Assembly
 OutputDocumentPath9=
 OutputVariantName9=
@@ -295,7 +295,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 Configuration10_Name1=OutputConfigurationParameter1
 Configuration10_Item1=Record=LayerStackReportView|Units=Metric
 OutputType11=Final
-OutputName11=gerber
+OutputName11=gerber_shield_display_4.3
 OutputCategory11=Fabrication
 OutputDocumentPath11=
 OutputVariantName11=
@@ -456,7 +456,7 @@ Configuration12_Name1=OutputConfigurationParameter1
 Configuration12_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=94295770|ViewY=55415524|LookAtX=93752512|LookAtY=86436072|LookAtZ=2444350|QuatX=1.74986556633752E-15|QuatY=0.985086679458618|QuatZ=-3.05638260019779E-16|QuatW=0.172059029340744|Zoom=2.23764013370629E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Altium%203D%20Blue%20Configuration\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3SYSTEM\2CFG3D.SHOWCOMPONENTSTEPMODELS\3SYSTEM\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTSNAPMARKERS\3FALSE\2CFG3D.SHOWCOMPONENTAXES\3FALSE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3FALSE\2CFG3D.EYEDIST\32000\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\316777215\2CFG3D.BOARDCORECOLOR\313761015\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\37026967\2CFG3D.BOTSOLDERMASKCOLOR\37026967\2CFG3D.COPPERCOLOR\33323360\2CFG3D.TOPSILKSCREENCOLOR\315461355\2CFG3D.BOTSILKSCREENCOLOR\315461355\2CFG3D.WORKSPACELUMINANCEVARIATION\312\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.890000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.860000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\31.000000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000
 
 [PublishSettings]
-OutputFilePath2=F:\src\db-eva\Assembly\shield_lcd4.3\develboard_eva.PDF
+OutputFilePath2=F:\src\db-eva\Assembly\shield_display_4.3\shield_display_4.3.PDF
 ReleaseManaged2=0
 OutputBasePath2=..\Assembly\
 OutputPathMedia2==projectName
@@ -464,7 +464,7 @@ OutputPathMediaValue2==projectName
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=shield_lcd4-3.PDF
+OutputFileName2=shield_display_4.3.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2==projectName
@@ -557,7 +557,7 @@ ShowComponentParameters6=1
 GlobalBookmarks6=0
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=F:\src\db-eva\Assembly\shield_lcd4.3\develboard_eva.PDF
+RelativeOutputPath2=F:\src\db-eva\Assembly\shield_display_4.3\shield_display_4.3.PDF
 OpenOutputs2=0
 RelativeOutputPath3=F:\src\db-eva\Pdf\Pdf\
 OpenOutputs3=0
