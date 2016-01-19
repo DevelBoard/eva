@@ -2,16 +2,17 @@
 name=EVA01 Evaluation board for DevelBoard
 hw_ver=2
 pcb_ver=B
-date=
+date=20160118
 
 [shield_display_4.3]
 name=EVA01 Shield Display 4.3''
 hw_ver=1
 pcb_ver=A
-date=
+date=20160111
 
-[shield_can-display]
+[shield_can_display_7]
 name=EVA01 Shield Display 7'' with CAN, RS232, RS485
 hw_ver=1
 pcb_ver=A
-date=
+date=20160111
+
