@@ -182,7 +182,7 @@ Configuration7_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416
 Configuration7_Name3=General
 Configuration7_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=F:\Dropbox\cadlib\protel\template\Develer_template_simple.xls|BatchMode=5|FormWidth=1541|FormHeight=660|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration7_Name4=GroupOrder
-Configuration7_Item4=Comment=True|Footprint=True
+Configuration7_Item4=
 Configuration7_Name5=OutputConfigurationParameter1
 Configuration7_Item5=??
 Configuration7_Name6=SortOrder

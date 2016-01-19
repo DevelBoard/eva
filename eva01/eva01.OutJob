@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=eva01.OutJob
 Description=
-TargetOutputMedium=Gerber
+TargetOutputMedium=Assembly
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
@@ -114,7 +114,7 @@ OutputName4=Gerber Files
 OutputCategory4=Fabrication
 OutputDocumentPath4=
 OutputVariantName4=
-OutputEnabled4=1
+OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=0
@@ -129,7 +129,7 @@ OutputName5=NC Drill Files
 OutputCategory5=Fabrication
 OutputDocumentPath5=
 OutputVariantName5=
-OutputEnabled5=1
+OutputEnabled5=0
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=0
@@ -166,7 +166,7 @@ OutputName7=bom
 OutputCategory7=Report
 OutputDocumentPath7=
 OutputVariantName7=
-OutputEnabled7=0
+OutputEnabled7=1
 OutputEnabled7_OutputMedium1=0
 OutputEnabled7_OutputMedium2=0
 OutputEnabled7_OutputMedium3=0
@@ -182,19 +182,19 @@ Configuration7_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416
 Configuration7_Name3=General
 Configuration7_Item3=OpenExported=False|AddToProject=True|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=F:\Dropbox\cadlib\protel\template\Develer_template_simple.xls|BatchMode=5|FormWidth=1541|FormHeight=660|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration7_Name4=GroupOrder
-Configuration7_Item4=Comment=True|Footprint=True
+Configuration7_Item4=
 Configuration7_Name5=OutputConfigurationParameter1
 Configuration7_Item5=??
 Configuration7_Name6=SortOrder
 Configuration7_Item6=Designator=Up|Comment=Up|Footprint=Up
 Configuration7_Name7=VisibleOrder
-Configuration7_Item7=Comment=100|Description=100|Designator=100|Footprint=100|LibRef=100|Quantity=100
+Configuration7_Item7=Description=371|Designator=734|LibRef=487|Quantity=68|Comment=100|Footprint=100
 OutputType8=Pick Place
 OutputName8=pick
 OutputCategory8=Assembly
 OutputDocumentPath8=
 OutputVariantName8=
-OutputEnabled8=0
+OutputEnabled8=1
 OutputEnabled8_OutputMedium1=0
 OutputEnabled8_OutputMedium2=0
 OutputEnabled8_OutputMedium3=0
