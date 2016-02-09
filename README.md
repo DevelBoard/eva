@@ -1,5 +1,5 @@
-# eva
-Schematics and Gerber for DevelBoard Evaluation Board.
+# Develer EVA01 Project
+Schematics and Gerber for DevelBoard Evaluation, and shield boards.
 
 ## EVA01 Releases
  
