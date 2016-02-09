@@ -1,13 +1,7 @@
 # eva
 Schematics and Gerber for DevelBoard Evaluation Board.
 
-## Releases
-
-### EVA01 Rev.1
- * First Release
- * PCB release Rev.A
- * Issues:
-   * J3 Connector Wrong Power Jack polarity -> Inside pin is GND, and output is +24V
+## EVA01 Releases
  
 ### EVA01 Rev.2
  * PCB release Rev.B
@@ -16,6 +10,14 @@ Schematics and Gerber for DevelBoard Evaluation Board.
  * Reduce backup battery size
  * Add Bridge diode on Power supply connector
  * Cosmetic fixes
+
+### EVA01 Rev.1
+ * First Release
+ * PCB release Rev.A
+ * Issues:
+   * J3 Connector Wrong Power Jack polarity -> Inside pin is GND, and output is +24V
+ 
+## EVA01 Releases
 
 ### SHIELD Rev.0
 * First Release: Automotive shield version. This shield provvide CAN, RS485 and RS232 peripherals, and LCD Display 7'' 800x480 with integrated resisteve touch. The board support the external capacitive touch frame.
