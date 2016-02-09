@@ -17,7 +17,7 @@ Schematics and Gerber for DevelBoard Evaluation Board.
  * Issues:
    * J3 Connector Wrong Power Jack polarity -> Inside pin is GND, and output is +24V
  
-## EVA01 Releases
+## Shiel board Releases
 
 ### SHIELD Rev.0
 * First Release: Automotive shield version. This shield provvide CAN, RS485 and RS232 peripherals, and LCD Display 7'' 800x480 with integrated resisteve touch. The board support the external capacitive touch frame.
