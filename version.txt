@@ -10,7 +10,7 @@ hw_ver=1
 pcb_ver=A
 date=20160111
 
-[shield_can_display_7]
+[shield_can-display]
 name=EVA01 Shield Display 7'' with CAN, RS232, RS485
 hw_ver=1
 pcb_ver=A

@@ -10,10 +10,10 @@
 
 
 Report file.
-Date: Tuesday, 09 February 2016 10:02:27
+Date: Tuesday, 09 February 2016 10:58:16
 ................................................................................
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::Date: Tue 09 February 2016 10:02:27
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::Date: Tue 09 February 2016 10:58:16
 Project Name: EVA01 Evaluation board for DevelBoard
 Hardware Revision: 2
 PCB Revision: B
@@ -31,19 +31,19 @@ Bom Files:
 >>  Merged key: Pin header 26x2 Stacked > 16mmHEADER_2x26_2.54MM_THD (Connector)
 >>  Merged key: Terminal block Header 3.5mm Horizontal (WE 691322110002)TBLOCK_1X2_3.5MM_HOR_THD (Connector)
 >>  Merged key: WR-DC_DC Power Jack_Right Angled_THT (WE  694108301002)DC_Jack_6.5x2.5mm_right_tht (Connector)
-!!  Not Populate connector, leave unmerged..[NP (ANT_WLAN_2)] [J15] match[u'NP']
->>  Merged key: SMA, Jack, Right angle, PCB socket, 50ohm (TE 5-1814400-1) NP  (ANT_WLAN_2)SMA_Jack_Female_5.08mm_THD ( NP  (ANT_WLAN_2))
->>  Merged key: WR-CRD Micro SD_Push and Push (693071010811)micro_sd_holder_pp (Connector)
 >>  Merged key: Pin header 26x2 Stacked > 16mmHEADER_2x26_2.54MM_THD (Connector)
 >>  Merged key: SMA, Jack, Right angle, PCB socket, 50ohm (TE 5-1814400-1)SMA_Jack_Female_5.08mm_THD (Connector)
+!!  Not Populate connector, leave unmerged..[  NP   (ANT_WLAN_2)] [J15] match[u'NP']
+>>  Merged key: SMA, Jack, Right angle, PCB socket, 50ohm (TE 5-1814400-1)   NP    (ANT_WLAN_2)SMA_Jack_Female_5.08mm_THD (   NP    (ANT_WLAN_2))
 >>  Merged key: USB Type-A Double Connector (WE  61400826021)USB_TypeA_Double_THD (Connector)
 >>  Merged key: Integrated RJ45 Transformer WE-RJ45LAN (WE 74990111217)RJ45_lan_transformer_horizontal (Connector)
 >>  Merged key: Pin Header, 4pin, 2x2, 2.54mm, THDHEADER_2X2_2.54MM_THD (Connector)
+>>  Merged key: WR-CRD Micro SD_Push and Push (693071010811)micro_sd_holder_pp (Connector)
 >>  Merged key: LED Green0603_[1608]_LED (+1.8V)
->>  Merged key: LED Green0603_[1608]_LED (Vusb)
->>  Merged key: LED Green0603_[1608]_LED (+5V)
->>  Merged key: LED Green0603_[1608]_LED (+3.3V)
->>  Merged key: LED Green0603_[1608]_LED (+24V)
+>>  Merged key: LED Green0603_[1608]_LED (+1.8V)
+>>  Merged key: LED Green0603_[1608]_LED (+1.8V)
+>>  Merged key: LED Green0603_[1608]_LED (+1.8V)
+>>  Merged key: LED Green0603_[1608]_LED (+1.8V)
 
 
 ================================================================================
@@ -70,7 +70,7 @@ U  IC
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Total: 187
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::Date: Tue 09 February 2016 10:02:27
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::Date: Tue 09 February 2016 10:58:16
 Project Name: EVA01 Shield Display 4.3''
 Hardware Revision: 1
 PCB Revision: A
@@ -102,3 +102,46 @@ U  IC
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Total: 27
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::Date: Tue 09 February 2016 10:58:16
+Project Name: EVA01 Shield Display 7'' with CAN, RS232, RS485
+Hardware Revision: 1
+PCB Revision: A
+
+Bom Files:
+ - ./Assembly\shield_can-display\bom-shield_can-display.xlsx
+
+== Check Merged items: ==
+--------------------------------------------------------------------------------
+>>  c:\users\nessuno\appdata\local\temp\bom-shield_can-display.xlsx
+>>  Merged key: 4-pin, 0.5mm, SMT, ZIF, Horizontal, Top Contact (Molex 52207-0433; WE 68610414122)fcc-zif_4pin_1mm (Connector)
+>>  Merged key: 40-pin, 0.5mm, SMT, ZIF, Horizontal, Bottom Contact (Molex 54132-4062; WE 68714014522)fcc-zif_40pin_0.5mm (Connector)
+>>  Merged key: 10-pin, 0.5mm, SMT, ZIF, Horizontal, Bottom Contact (Molex 52746-1071; WE 68711014522)fcc-zif_10pin_0.5mm (Connector)
+>>  Merged key: Terminal block Header 3.5mm Horizontal (WE 691322110003)TBLOCK_1X3_3.5MM_HOR_THD (Connector)
+>>  Merged key: Socket Header, 26 pin, 13x2, 2.54mm, H=8.5mmSOCKET_2x26_2.54MM_SMD (Connector)
+>>  Merged key: Pin header 26x2SOCKET_2x26_2.54MM_SMD (Connector)
+>>  Merged key: Pin header 26x2SOCKET_2x26_2.54MM_SMD (Connector)
+>>  Merged key: Terminal block Header 3.5mm Horizontal (WE 691322110003)TBLOCK_1X3_3.5MM_HOR_THD (Connector)
+>>  Merged key: Pin Header, 2.54mm, 1x2, 2pinHEADER_1X2_2.54MM_THD (Connector)
+>>  Merged key: Receptacle Assembly, 9 Position, Right Angle (WE 618009231421)DSUB1.385-2H9_FEMALE (Connector)
+
+
+================================================================================
+File num: 1
+C  Capacitors
+    C    21
+D  Diodes
+    D     6
+J  Connectors
+    J    10
+L  Inductors, chokes
+    L     2
+R  Resistors
+    R    43
+U  IC
+    U     6
+Y  Cristal, quarz, oscillator
+    Y     1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Total: 89
