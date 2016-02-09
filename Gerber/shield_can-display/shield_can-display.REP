@@ -89,8 +89,8 @@ Generating : Top Overlay
 
 
 Used DCodes :
-    D13
     D14
+    D15
     D52
 *************************************************************
 
@@ -199,6 +199,7 @@ Used DCodes :
     D27
     D28
     D29
+    D30
     D31
     D32
     D33
@@ -215,7 +216,6 @@ Used DCodes :
     D44
     D45
     D46
-    D47
     D48
     D49
     D50
@@ -229,8 +229,8 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
-    D13
     D14
+    D15
     D51
     D52
     D88
@@ -271,7 +271,7 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D89
+    D90
     D92
 *************************************************************
 
@@ -285,6 +285,6 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D89
+    D90
 *************************************************************
 
