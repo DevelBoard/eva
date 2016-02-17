@@ -10,6 +10,8 @@ Schematics and Gerber for DevelBoard Evaluation, and shield boards.
  * Reduce backup battery size
  * Add Bridge diode on Power supply connector
  * Cosmetic fixes
+ * Issues:
+   * WiFi/BlueTooth enable: Put R10 to NP and R11 to 0R.
 
 ### EVA01 Rev.1
  * First Release
