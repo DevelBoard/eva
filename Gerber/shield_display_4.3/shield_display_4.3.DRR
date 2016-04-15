@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: shield_display_4.3.PcbDoc   09/02/2016  10:49:54
+NCDrill File Report For: shield_display_4.3.PcbDoc   15/04/2016  17:03:19
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,9 +7,9 @@ ASCII RoundHoles File : shield_display_4.3.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             113       PTH        514.87mm (20.27inch)
+T1      0.3mm (12mil)                                             Round             114       PTH        533.23mm (20.99inch)
 T2      3.2mm (126mil)                                            Round             4         PTH        364.77mm (14.36inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              117
+Totals                                                                              118
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01

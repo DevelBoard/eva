@@ -1,13 +1,13 @@
 DRC Rules Export File for PCB: F:\src\db-eva\shield_display_4.3\shield_display_4.3.PcbDoc
-RuleKind=Clearance|RuleName=Clearance_shld|Scope=Board|Minimum=31.50
-RuleKind=Clearance|RuleName=Clearance_35|Scope=Board|Minimum=13.78
-RuleKind=Clearance|RuleName=Clearance_45|Scope=Board|Minimum=17.72
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.84
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_via|Scope=Board|Minimum=-393.70
-RuleKind=Clearance|RuleName=Clearance_com|Scope=Board|Minimum=5.91
-RuleKind=Clearance|RuleName=Clearance_80|Scope=Board|Minimum=31.50
-RuleKind=Clearance|RuleName=Clearance_poly|Scope=Board|Minimum=9.84
 RuleKind=Clearance|RuleName=Clearance_hole|Scope=Board|Minimum=39.37
+RuleKind=Clearance|RuleName=Clearance_poly|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance_80|Scope=Board|Minimum=31.50
+RuleKind=Clearance|RuleName=Clearance_com|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_via|Scope=Board|Minimum=-393.70
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.84
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_45|Scope=Board|Minimum=17.72
+RuleKind=Clearance|RuleName=Clearance_35|Scope=Board|Minimum=13.78
+RuleKind=Clearance|RuleName=Clearance_shld|Scope=Board|Minimum=31.50
