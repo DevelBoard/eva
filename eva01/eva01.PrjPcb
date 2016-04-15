@@ -30,8 +30,8 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=out
-LogFolderPath=log
+OutputPath=\\vmware-host\Shared Folders\localhome\AltiumLog
+LogFolderPath=\\vmware-host\Shared Folders\localhome\AltiumLog
 ManagedProjectGUID=
 
 [Preferences]
@@ -174,108 +174,95 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WJNHPKIP
 
-[Document9]
-DocumentPath=eva01.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ICPPAGWE
-
 [GeneratedDocument1]
-DocumentPath=..\Gerber\eva01\eva01-RoundHoles.TXT
+DocumentPath=..\Assembly\eva01\bom-eva01.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=..\Gerber\eva01\eva01-SlotHoles.TXT
+DocumentPath=..\Gerber\eva01\eva01-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=..\Gerber\eva01\eva01.DRR
+DocumentPath=..\Gerber\eva01\eva01-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=..\Gerber\eva01\eva01.EXTREP
+DocumentPath=..\Gerber\eva01\eva01.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=..\Gerber\eva01\eva01.G1
+DocumentPath=..\Gerber\eva01\eva01.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=..\Gerber\eva01\eva01.GBL
+DocumentPath=..\Gerber\eva01\eva01.G1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=..\Gerber\eva01\eva01.GBO
+DocumentPath=..\Gerber\eva01\eva01.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=..\Gerber\eva01\eva01.GBP
+DocumentPath=..\Gerber\eva01\eva01.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=..\Gerber\eva01\eva01.GBS
+DocumentPath=..\Gerber\eva01\eva01.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=..\Gerber\eva01\eva01.GD1
+DocumentPath=..\Gerber\eva01\eva01.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=..\Gerber\eva01\eva01.GG1
+DocumentPath=..\Gerber\eva01\eva01.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=..\Gerber\eva01\eva01.GM1
+DocumentPath=..\Gerber\eva01\eva01.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=..\Gerber\eva01\eva01.GM7
+DocumentPath=..\Gerber\eva01\eva01.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=..\Gerber\eva01\eva01.GP1
+DocumentPath=..\Gerber\eva01\eva01.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=..\Gerber\eva01\eva01.GTL
+DocumentPath=..\Gerber\eva01\eva01.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=..\Gerber\eva01\eva01.GTO
+DocumentPath=..\Gerber\eva01\eva01.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=..\Gerber\eva01\eva01.GTP
+DocumentPath=..\Gerber\eva01\eva01.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=..\Gerber\eva01\eva01.GTS
+DocumentPath=..\Gerber\eva01\eva01.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=..\Gerber\eva01\eva01.LDP
+DocumentPath=..\Gerber\eva01\eva01.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=..\Gerber\eva01\eva01.REP
+DocumentPath=..\Gerber\eva01\eva01.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=..\Gerber\eva01\eva01.RUL
+DocumentPath=..\Gerber\eva01\eva01.REP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
+DocumentPath=..\Gerber\eva01\eva01.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
 DocumentPath=..\Assembly\eva01\Pick Place for eva01.txt
 DItemRevisionGUID=
 
@@ -300,7 +287,7 @@ GenerateBOM=0
 OutputJobsCount=0
 
 [Generic_EDE]
-OutputDir=out
+OutputDir=\\vmware-host\Shared Folders\localhome\AltiumLog
 
 [OutputGroup1]
 Name=Netlist Outputs

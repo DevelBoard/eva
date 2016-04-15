@@ -82,7 +82,7 @@ Used DCodes :
     D33
     D34
     D35
-    D37
+    D36
     D38
     D40
     D41
@@ -90,12 +90,12 @@ Used DCodes :
     D43
     D44
     D45
-    D48
-    D50
+    D47
+    D49
     D51
-    D52
-    D53
-    D59
+    D61
+    D62
+    D63
 *************************************************************
 
 *************************************************************
@@ -109,9 +109,9 @@ Generating : GND
 
 Used DCodes :
     D10
-    D35
     D36
-    D55
+    D39
+    D57
     D66
     D67
     D68
@@ -144,13 +144,13 @@ Generating : Bottom Layer
 
 Used DCodes :
     D10
-    D11
-    D12
-    D13
-    D16
-    D18
-    D26
-    D32
+    D19
+    D20
+    D23
+    D27
+    D28
+    D30
+    D31
     D33
     D34
     D35
@@ -172,12 +172,12 @@ Used DCodes :
     D51
     D52
     D53
+    D54
     D55
     D56
     D57
     D58
     D59
-    D60
     D61
     D62
     D63
@@ -220,8 +220,8 @@ Used DCodes :
     D10
     D33
     D34
-    D36
     D37
+    D38
     D39
     D109
     D110
@@ -243,7 +243,6 @@ Used DCodes :
     D11
     D12
     D13
-    D14
     D15
     D16
     D17
@@ -251,6 +250,7 @@ Used DCodes :
     D19
     D20
     D21
+    D22
     D23
     D24
     D25
@@ -275,11 +275,11 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D22
+    D14
     D46
-    D49
-    D55
-    D61
+    D53
+    D57
+    D58
     D112
     D113
     D114
@@ -332,18 +332,18 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D22
+    D14
     D46
-    D49
-    D55
-    D61
-    D112
-    D113
-    D114
-    D117
-    D119
-    D127
-    D133
+    D53
+    D57
+    D58
+    D120
+    D121
+    D124
+    D128
+    D129
+    D131
+    D132
     D134
     D135
     D136
@@ -396,13 +396,13 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D11
-    D12
-    D13
-    D16
-    D18
-    D26
-    D32
+    D19
+    D20
+    D23
+    D27
+    D28
+    D30
+    D31
     D85
     D86
     D87
@@ -438,10 +438,10 @@ Used DCodes :
     D10
     D33
     D34
-    D36
     D37
+    D38
     D39
-    D111
+    D110
     D172
     D173
     D174
@@ -467,6 +467,7 @@ Generating : PCB_Note
 
 
 Used DCodes :
+    D33
     D34
     D176
 *************************************************************
@@ -481,7 +482,7 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D39
+    D37
     D110
     D111
 *************************************************************
@@ -496,6 +497,6 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D111
+    D110
 *************************************************************
 
