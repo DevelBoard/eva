@@ -1,8 +1,8 @@
 [eva01]
 name=EVA01 Evaluation board for DevelBoard
-hw_ver=2
-pcb_ver=B
-date=20160118
+hw_ver=3
+pcb_ver=C
+date=20160415
 
 [shield_display_4.3]
 name=EVA01 Shield Display 4.3''
