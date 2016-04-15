@@ -7,8 +7,8 @@ date=20160415
 [shield_display_4.3]
 name=EVA01 Shield Display 4.3''
 hw_ver=1
-pcb_ver=A
-date=20160111
+pcb_ver=B
+date=20160415
 
 [shield_can-display]
 name=EVA01 Shield Display 7'' with CAN, RS232, RS485
