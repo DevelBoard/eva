@@ -1,20 +1,21 @@
----------------------------------------------------------------------------
-NCDrill File Report For: display_shield_pannel.PcbDoc   11/01/2016  11:57:43
----------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: display_shield_pannel.PcbDoc   16/06/2016  17:58:46
+----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
 ASCII RoundHoles File : display_shield_pannel.TXT
 
-Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
----------------------------------------------------------------------------
-T1        0.3mm (11.811mil)        Round          406              2273.69 mm (89.52 Inch)
-T2        0.9mm (35.433mil)        Round          2                2.54 mm (0.10 Inch)
-T3        1.09mm (42.913mil)       Round          9                22.55 mm (0.89 Inch)
-T4        1.4mm (55.118mil)        Round          6                34.00 mm (1.34 Inch)
-T5        3.2mm (125.984mil)       Round          16               966.31 mm (38.04 Inch)
-T6        3.26mm (128.346mil)      Round          2                24.99 mm (0.98 Inch)
-T7        0.3mm (11.811mil)        Round          12        NPTH   152.50 mm (6.00 Inch)
----------------------------------------------------------------------------
-Totals                                            453              3476.59 mm (136.87 Inch)
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             461       PTH        2630.59mm (103.57inch)
+T2      0.9mm (35mil)                                             Round             2         PTH        2.54mm (0.10inch)
+T3      1.09mm (43mil)                                            Round             9         PTH        22.55mm (0.89inch)
+T4      1.4mm (55mil)                                             Round             6         PTH        34.00mm (1.34inch)
+T5      3.2mm (126mil)                                            Round             16        PTH        966.31mm (38.04inch)
+T6      3.26mm (128mil)                                           Round             2         PTH        24.99mm (0.98inch)
+T7      0.3mm (12mil)                                             Round             12        NPTH       152.50mm (6.00inch)
+T8      3.2mm (126mil)                                            Round             4         NPTH       695.37mm (27.38inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              512
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00
