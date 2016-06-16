@@ -1,217 +1,72 @@
 *************************************************************
-FileName = shield_display_4.3.GBR
-AutoAperture = True
+FileName = shield_display_4.3.PcbDoc
+ODB++ directory structure
 *************************************************************
-Generating : Top Layer
-      File : shield_display_4.3.GTL
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\matrix\matrix
 
-    Adding Layer      : Top Layer
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\profile
 
-    Adding Layer      : Multi-Layer
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\stephdr
 
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\attrlist
 
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-*************************************************************
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\topoverlay\features
 
-*************************************************************
-Generating : Bottom Layer
-      File : shield_display_4.3.GBL
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\topoverlay\attrlist
 
-    Adding Layer      : Bottom Layer
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\toppaste\features
 
-    Adding Layer      : Multi-Layer
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\toppaste\attrlist
 
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\topsolder\features
 
-Used DCodes :
-    D10
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-*************************************************************
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\topsolder\attrlist
 
-*************************************************************
-Generating : Top Overlay
-      File : shield_display_4.3.GTO
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\top\features
 
-    Adding Layer      : Top Overlay
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\top\attrlist
 
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\bottom\features
 
-Used DCodes :
-    D32
-*************************************************************
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\bottom\attrlist
 
-*************************************************************
-Generating : Top Paste
-      File : shield_display_4.3.GTP
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\bottomsolder\features
 
-    Adding Layer      : Top Paste
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\bottomsolder\attrlist
 
-    Adding Layer      : Top Layer
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\bottompaste\features
 
-    Adding Layer      : Multi-Layer
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\bottompaste\attrlist
 
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\bottomoverlay\features
 
-Used DCodes :
-*************************************************************
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\bottomoverlay\attrlist
 
-*************************************************************
-Generating : Top Solder
-      File : shield_display_4.3.GTS
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\drill\features
 
-    Adding Layer      : Top Solder
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\drill\attrlist
 
-    Adding Layer      : Top Layer
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\drill\tools
 
-    Adding Layer      : Multi-Layer
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\mechanical1\features
 
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\mechanical1\attrlist
 
-Used DCodes :
-    D33
-*************************************************************
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\mechanical7\features
 
-*************************************************************
-Generating : Bottom Solder
-      File : shield_display_4.3.GBS
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\mechanical7\attrlist
 
-    Adding Layer      : Bottom Solder
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\comp_+_top\features
 
-    Adding Layer      : Bottom Layer
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\comp_+_top\components
 
-    Adding Layer      : Multi-Layer
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\comp_+_bot\features
 
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\comp_+_bot\components
 
-Used DCodes :
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-*************************************************************
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\rout\features
 
-*************************************************************
-Generating : Bottom Paste
-      File : shield_display_4.3.GBP
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\layers\rout\tools
 
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : shield_display_4.3.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D12
-    D14
-    D47
-*************************************************************
-
-*************************************************************
-Generating : Outline
-      File : shield_display_4.3.GM1
-
-    Adding Layer      : Outline
-
-
-Used DCodes :
-    D14
-*************************************************************
-
-*************************************************************
-Generating : PCB_Note
-      File : shield_display_4.3.GM7
-
-    Adding Layer      : PCB_Note
-
-
-Used DCodes :
-    D10
-    D12
-    D14
-    D48
-    D49
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : shield_display_4.3.GD1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D47
-    D50
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : shield_display_4.3.GG1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D47
-*************************************************************
+Generated File : F:\src\db-eva\Gerber\shield_display_4.3\odb\steps\pcb\eda\data
 
