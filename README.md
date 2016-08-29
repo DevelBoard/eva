@@ -2,6 +2,11 @@
 Schematics and Gerber for DevelBoard Evaluation, and shield boards.
 
 ## EVA01 Releases
+
+### EVA01 Rev.3 (eva01-R3)
+ * PCB release Rev.C (pcb-eva01-Rev-C)
+ * Move WLAN_PWR singal form PB29 to PE5 pin.
+ * Silk screen cosmetic fixes
  
 ### EVA01 Rev.2 (eva01-R2)
  * PCB release Rev.B (pcb-eva01-Rev-B)
