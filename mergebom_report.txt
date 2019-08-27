@@ -8,144 +8,37 @@
 #     # #      #   #  #    # #      #     # #    # #    #
 #     # ###### #    #  ####  ###### ######   ####  #    #
 
-
-Report file.
-Date: Friday, 17 June 2016 12:10:39
-................................................................................
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::Date: 20160415
-Project Name: EVA01 Evaluation board for DevelBoard
-Hardware Revision: 3
-PCB Revision: C
-
-Bom Files:
- - ./Assembly\eva01\bom-eva01.xlsx
-
-== Check Merged items: ==
---------------------------------------------------------------------------------
->>  c:\users\nessuno\appdata\local\temp\bom-eva01.xlsx
->>  Merged key: Mini USB SMT Type B 5 Contacts (WE 65100516121)usb_typeB_mini_smd (Connector)
->>  Merged key: Pin Header, 2pin, 1x2, 2.54mm, THDHEADER_1X2_2.54MM_THD (Connector)
->>  Merged key: CR1612/1616/1620/1632 (3013, Keystone)Battery_holder_16mm_thd (Connector)
->>  Merged key: Pin header, 2x26, 2.54mm, Stacked H=10mm (LE210280-R)HEADER_2x26_2.54MM_THD (Connector)
->>  Merged key: Pin header, 2x26, 2.54mm, Stacked H=10mm (LE210280-R)HEADER_2x26_2.54MM_THD (Connector)
->>  Merged key: Terminal block Header 3.5mm Horizontal (WE 691322110002)TBLOCK_1X2_3.5MM_HOR_THD (Connector)
->>  Merged key: WR-DC_DC Power Jack_Right Angled_THT (WE  694106301002)DC_Jack_6.5x2.5mm_right_tht (Connector)
->>  Merged key: Pin header, 2x26, 2.54mm, Stacked H=10mm (LE210280-R)HEADER_2x26_2.54MM_THD (Connector)
->>  Merged key: SMA, Jack, Right angle, PCB socket, 50ohm (TE 5-1814400-1)SMA_Jack_Female_5.08mm_THD (Connector)
-!!  Not Populate connector, leave unmerged..[NP  Connector] [J15] match[u'NP']
->>  Merged key: SMA, Jack, Right angle, PCB socket, 50ohm (TE 5-1814400-1)NP ConnectorSMA_Jack_Female_5.08mm_THD (NP Connector)
->>  Merged key: USB Type-A Double Connector (WE  61400826021)USB_TypeA_Double_THD (Connector)
->>  Merged key: Integrated RJ45 Transformer WE-RJ45LAN (WE 74990111217)RJ45_lan_transformer_horizontal (Connector)
->>  Merged key: Pin Header, 4pin, 2x2, 2.54mm, THDHEADER_2X2_2.54MM_THD (Connector)
->>  Merged key: WR-CRD Micro SD_Push and Push (693071010811)micro_sd_holder_pp (Connector)
->>  Merged key: LED Green0603_[1608]_LED (LED)
->>  Merged key: LED Green0603_[1608]_LED (LED)
->>  Merged key: LED Green0603_[1608]_LED (LED)
->>  Merged key: LED Green0603_[1608]_LED (LED)
->>  Merged key: LED Green0603_[1608]_LED (LED)
-
-
-================================================================================
-File num: 1
-C  Capacitors
-    C    52
-D  Diodes
-    D     9
-J  Connectors
-    J    14
-L  Inductors, chokes
-    L    21
-Q  Transistors
-    Q     1
-S  Mechanical parts and buttons
-    S     1
-R  Resistors
-    R    75
-DZ Zener, Schottky, Transil
-   DZ     1
-U  IC
-    U    13
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Total: 187
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::Date: 20160616
-Project Name: EVA01 Shield Display 4.3''
-Hardware Revision: 2
-PCB Revision: C
-
-Bom Files:
- - ./Assembly\shield_display_4.3\bom-shield_display_4.3.xlsx
-
-== Check Merged items: ==
---------------------------------------------------------------------------------
->>  c:\users\nessuno\appdata\local\temp\bom-shield_display_4.3.xlsx
->>  Merged key: 40-pin, 0.5mm, SMT, ZIF, Horizontal, Top Contact (WE 68714014022; Molex: 54104-4031)fcc-zif_40pin_0.5mm (Connector)
->>  Merged key: 10-pin, 0.5mm, SMT, ZIF, Horizontal, Bottom Contact (Molex 52746-1071; WE 68711014522)fcc-zif_10pin_0.5mm (Connector)
->>  Merged key: Socket Header, 52 pin, 26x2, 2.54mm, H=8.5mmSOCKET_2x26_2.54MM_SMD (Connector)
->>  Merged key: Socket Header, 52 pin, 26x2, 2.54mm, H=8.5mmSOCKET_2x26_2.54MM_SMD (Connector)
->>  Merged key: Socket Header, 52 pin, 26x2, 2.54mm, H=8.5mmSOCKET_2x26_2.54MM_SMD (Connector)
-
-
-================================================================================
-File num: 1
-C  Capacitors
-    C     8
-J  Connectors
-    J     5
-L  Inductors, chokes
-    L     1
-R  Resistors
-    R    26
-U  IC
-    U     2
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Total: 42
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::Date: 20160616
-Project Name: EVA01 Shield Display 7'' with CAN, RS232, RS485
-Hardware Revision: 2
-PCB Revision: B
-
-Bom Files:
- - ./Assembly\shield_can-display\bom-shield_can-display.xlsx
-
-== Check Merged items: ==
---------------------------------------------------------------------------------
->>  c:\users\nessuno\appdata\local\temp\bom-shield_can-display.xlsx
->>  Merged key: 4-pin, 0.5mm, SMT, ZIF, Horizontal, Top Contact (Molex 52207-0433; WE 68610414122)fcc-zif_4pin_1mm (Connector)
->>  Merged key: 40-pin, 0.5mm, SMT, ZIF, Horizontal, Top Contact (WE 68714014022; Molex: 54104-4031)fcc-zif_40pin_0.5mm (Connector)
->>  Merged key: 10-pin, 0.5mm, SMT, ZIF, Horizontal, Bottom Contact (Molex 52746-1071; WE 68711014522)fcc-zif_10pin_0.5mm (Connector)
->>  Merged key: Terminal block Header 3.5mm Horizontal (WE 691322110003)TBLOCK_1X3_3.5MM_HOR_THD (Connector)
->>  Merged key: Socket Header, 26 pin, 13x2, 2.54mm, H=8.5mmSOCKET_2x26_2.54MM_SMD (Connector)
->>  Merged key: Pin header 26x2SOCKET_2x26_2.54MM_SMD (Connector)
->>  Merged key: Pin header 26x2SOCKET_2x26_2.54MM_SMD (Connector)
->>  Merged key: Terminal block Header 3.5mm Horizontal (WE 691322110003)TBLOCK_1X3_3.5MM_HOR_THD (Connector)
->>  Merged key: Pin Header, 2.54mm, 1x2, 2pinHEADER_1X2_2.54MM_THD (Connector)
->>  Merged key: Receptacle Assembly, 9 Position, Right Angle (WE 618009231421)DSUB1.385-2H9_FEMALE (Connector)
->>  Merged key: 10-pin, 0.5mm, SMT, ZIF, Horizontal, TOP Contact (WE 68711014022; DA VERIFICARE -->Molex 52745-1033)fcc-zif_10pin_0.5mm (Connector)
-
-
-================================================================================
-File num: 1
-C  Capacitors
-    C    23
-D  Diodes
-    D     6
-J  Connectors
-    J    11
-L  Inductors, chokes
-    L     2
-S  Mechanical parts and buttons
-    S     1
-R  Resistors
-    R    64
-U  IC
-    U     6
-Y  Cristal, quarz, oscillator
-    Y     1
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Total: 114
+> 
+Search project to merge in given Altiumworkspace: .\develboard_eva.DsnWrk
+> BOM path .\Assembly
+> Root path .
+> proj .\shield_can-display\shield_can-display.PrjPcb
+> proj .\display_shield_pannel\display_shield_pannel.PrjPcb
+> proj .\eva01\eva01.PrjPcb
+> proj .\shield_display_4.3\shield_display_4.3.PrjPcb
+> proj .\shield_io\shield_io.PrjPcb
+> Found following projects:
+> shield_io: ['.\\Assembly\\shield_io\\bom-shield_io.csv']
+==== Start merge ===
+>> File name: .\Assembly\shield_io\bom-shield_io.csv
+>> Merged key: Terminal block Header 3.5mm Horizontal (WE 691322110002)TBLOCK_1X2_3.5MM_HOR_THD (Connector)
+>> Merged key: Terminal block Header 3.5mm Horizontal (WE 691322110002)TBLOCK_1X2_3.5MM_HOR_THD (Connector)
+>> Merged key: Terminal block Header 3.5mm HorizontaTBLOCK_1X3_3.5MM_HOR_THD (Connector)
+>> Merged key: Terminal block Header 3.5mm HorizontaTBLOCK_1X3_3.5MM_HOR_THD (Connector)
+>> Merged key: Terminal block Header 3.5mm HorizontaTBLOCK_1X3_3.5MM_HOR_THD (Connector)
+>> Merged key: Terminal block Header 3.5mm Horizontal (WE 691322110002)TBLOCK_1X2_3.5MM_HOR_THD (Connector)
+>> Merged key: Terminal block Header 3.5mm HorizontaTBLOCK_1X3_3.5MM_HOR_THD (Connector)
+>> Merged key: Terminal block Header 3.5mm HorizontaTBLOCK_1X3_3.5MM_HOR_THD (Connector)
+>> Merged key: Terminal block Header 3.5mm HorizontaTBLOCK_1X3_3.5MM_HOR_THD (Connector)
+>> Merged key: Terminal block Header 3.5mm HorizontaTBLOCK_1X3_3.5MM_HOR_THD (Connector)
+>> Merged key: Socket Header, 52 pin, 26x2, 2.54mm, H=8.5mmSOCKET_2x26_2.54MM_THD (Connector)
+>> Merged key: Socket Header, 52 pin, 26x2, 2.54mm, H=8.5mmSOCKET_2x26_2.54MM_THD (Connector)
+>> Merged key: Terminal block Header 3.5mm HorizontaTBLOCK_1X3_3.5MM_HOR_THD (Connector)
+>> Merged key: Socket Header, 52 pin, 26x2, 2.54mm, H=8.5mmSOCKET_2x26_2.54MM_THD (Connector)
+>> Merged key: Terminal block Header 3.5mm Horizontal (WE 691322110002)TBLOCK_1X2_3.5MM_HOR_THD (Connector)
+>> Merged key: Terminal block Header 3.5mm HorizontaTBLOCK_1X3_3.5MM_HOR_THD (Connector)
+>> Merged key: Rele NT75CS16DC12V0.415.0 16A 12Vrelays_spco_thd_28x12mm_5mm (Relay, Rele')
+>> Merged key: Rele NT75CS16DC12V0.415.0 16A 12Vrelays_spco_thd_28x12mm_5mm (Relay, Rele')
+>> Merged key: Rele NT75CS16DC12V0.415.0 16A 12Vrelays_spco_thd_28x12mm_5mm (Relay, Rele')
+>> Merged key: Rele NT75CS16DC12V0.415.0 16A 12Vrelays_spco_thd_28x12mm_5mm (Relay, Rele')
+==== Merge Done! ===

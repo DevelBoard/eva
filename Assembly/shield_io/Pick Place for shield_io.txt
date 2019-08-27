@@ -1,0 +1,187 @@
+Altium Designer Pick and Place Locations
+C:\Users\Asterix\Documents\github\eva01\Assembly\shield_io\Pick Place for shield_io.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       27-08-19
+Time:       09:54
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment         Layer       Footprint                     Center-X(mm) Center-Y(mm) Rotation Description                                                
+C106       10uF            TopLayer    1206_[3216]                   -43.0000     -9.0000      180      "Ceramic X7R 25V"                                          
+U44        AD5624RBRMZ     TopLayer    MSOP50P490X110-10P            -42.0000     -20.5000     90       "12bit DAC"                                                
+U14        OPA4188AID      TopLayer    SOIC14                        -55.0000     -20.4999     90       "Quad Op Amp"                                              
+R387       0R              TopLayer    0603_[1608]                   -43.7502     -12.5000     180      Resistor                                                   
+R386       NP              TopLayer    0603_[1608]                   -43.7498     -14.0000     360      Resistor                                                   
+R107       NP              TopLayer    0603_[1608]                   -51.7502     -15.2499     180      Resistor                                                   
+R106       NP              TopLayer    0603_[1608]                   -58.2498     -13.7499     360      Resistor                                                   
+R105       0R              TopLayer    0603_[1608]                   -48.7502     -12.2499     180      Resistor                                                   
+R104       NP              TopLayer    0603_[1608]                   -51.7502     -13.7499     180      Resistor                                                   
+R103       0R              TopLayer    0603_[1608]                   -61.2498     -13.7499     360      Resistor                                                   
+R102       NP              TopLayer    0603_[1608]                   -58.2498     -15.2499     360      Resistor                                                   
+R101       NP              TopLayer    0603_[1608]                   -48.7502     -13.7499     180      Resistor                                                   
+R100       NP              TopLayer    0603_[1608]                   -61.2498     -12.2499     360      Resistor                                                   
+R99        NP              TopLayer    0603_[1608]                   -53.2498     -10.7499     360      Resistor                                                   
+R98        NP              TopLayer    0603_[1608]                   -56.7502     -10.7499     180      Resistor                                                   
+R97        33R             TopLayer    0603_[1608]                   -48.7502     -17.2499     180      Resistor                                                   
+R96        33R             TopLayer    0603_[1608]                   -61.2498     -17.2499     360      Resistor                                                   
+R95        0R              TopLayer    0603_[1608]                   -54.0000     -8.5001      270      Resistor                                                   
+R94        0R              TopLayer    0603_[1608]                   -56.0000     -8.5001      270      Resistor                                                   
+R93        NP              TopLayer    0603_[1608]                   -58.2750     -27.3499     360      Resistor                                                   
+R92        NP              TopLayer    0603_[1608]                   -51.7502     -25.7999     180      Resistor                                                   
+R91        "100R 0.1%"     TopLayer    0805_[2012]                   -71.9998     -23.7899     360      Resistor                                                   
+R90        NP              TopLayer    0805_[2012]                   -71.9998     -22.0399     360      Resistor                                                   
+R89        0R              TopLayer    0603_[1608]                   -61.2498     -25.7999     360      Resistor                                                   
+R88        NP              TopLayer    0603_[1608]                   -58.2498     -25.7999     360      Resistor                                                   
+R87        NP              TopLayer    0805_[2012]                   -71.9998     -39.9496     360      Resistor                                                   
+R86        "100R 0.1%"     TopLayer    0805_[2012]                   -71.9998     -38.1996     360      Resistor                                                   
+R85        0R              TopLayer    0603_[1608]                   -48.7502     -28.7999     180      Resistor                                                   
+R84        NP              TopLayer    0603_[1608]                   -51.7502     -27.2999     180      Resistor                                                   
+R83        NP              TopLayer    0603_[1608]                   -61.2502     -27.3499     360      Resistor                                                   
+R82        NP              TopLayer    0603_[1608]                   -48.7502     -25.7999     180      Resistor                                                   
+R81        220R            TopLayer    TRIMMER_THD_5x10MM_HORIZONTAL -69.4998     -27.9998     180      "Trimmer 23 Turn 220ohm (T93YA221KT20;)"                   
+R80        220R            TopLayer    TRIMMER_THD_5x10MM_HORIZONTAL -69.4998     -34.1996     180      "Trimmer 23 Turn 220ohm (T93YA221KT20;)"                   
+R79        NP              TopLayer    0603_[1608]                   -56.7502     -30.5499     180      Resistor                                                   
+R78        NP              TopLayer    0603_[1608]                   -53.2498     -29.0499     360      Resistor                                                   
+Q2         FCX690BTA       TopLayer    SOT-89                        -66.4998     -21.7899     180      "NPN Bipolar Transistor"                                   
+Q1         FCX690BTA       TopLayer    SOT-89                        -66.4998     -40.1898     180      "NPN Bipolar Transistor"                                   
+L2         10uH            TopLayer    1210_[3225]                   -49.5000     -36.4676     180      "INDUCTOR, 1210 CASE, 10.0UH (ELJPA100KF)"                 
+J16        VOLT_DAC        TopLayer    TBLOCK_1X3_3.5MM_HOR_THD      -78.7498     -13.2499     270      "Terminal block Header 3.5mm Horizonta"                    
+J15        CURR_DAC        TopLayer    TBLOCK_1X3_3.5MM_HOR_THD      -78.7498     -30.9996     270      "Terminal block Header 3.5mm Horizonta"                    
+C104       100nF           TopLayer    0603_[1608]                   -41.0002     -14.0000     180      "Ceramic X7R 50V"                                          
+C32        10uF            TopLayer    1206_[3216]                   -53.0000     -37.9676     90       "Ceramic X7R 25V"                                          
+C31        100nF           TopLayer    0603_[1608]                   -55.0000     -37.1254     270      "Ceramic X7R 50V"                                          
+C30        NP              TopLayer    0603_[1608]                   -48.7498     -15.2499     360      "Ceramic X7R 50V"                                          
+C29        NP              TopLayer    0603_[1608]                   -61.2502     -15.2499     180      "Ceramic X7R 50V"                                          
+C28        NP              TopLayer    0603_[1608]                   -53.2498     -12.2499     360      "Ceramic X7R 50V"                                          
+C27        NP              TopLayer    0603_[1608]                   -56.7502     -12.2499     180      "Ceramic X7R 50V"                                          
+C26        NP              TopLayer    0603_[1608]                   -61.2503     -28.7999     180      "Ceramic X7R 50V"                                          
+C25        NP              TopLayer    0603_[1608]                   -48.7498     -27.2999     360      "Ceramic X7R 50V"                                          
+C24        NP              TopLayer    0603_[1608]                   -56.7502     -29.0499     180      "Ceramic X7R 50V"                                          
+C23        NP              TopLayer    0603_[1608]                   -53.2498     -30.5499     360      "Ceramic X7R 50V"                                          
+C22        100nF           TopLayer    0603_[1608]                   -43.7498     -10.9500     360      "Ceramic X7R 50V"                                          
+D2         S2B             TopLayer    DO214AA_K1-A2_SMB             25.4498      25.0000      90       "S2B Diode"                                                
+D1         S2B             TopLayer    DO214AA_K1-A2_SMB             25.4498      14.2500      90       "S2B Diode"                                                
+U13        LM317D          TopLayer    SOT-223                       19.2500      25.0000      90       "3-Terminal Adjustable Regulator, 3-pin SOT-223"           
+U12        ACPL-827        TopLayer    SOIC8_OPTO                    7.6998       20.5000      270      Optocoupler                                                
+U11        LM317D          TopLayer    SOT-223                       19.1998      14.2500      90       "3-Terminal Adjustable Regulator, 3-pin SOT-223"           
+U10        GEN7            TopLayer    relays_spco_thd_28x12mm_5mm   -20.9798     -19.8926     90       "Rele NT75CS16DC12V0.415.0 16A 12V"                        
+U9         GEN6            TopLayer    relays_spco_thd_28x12mm_5mm   -6.9798      -19.8926     90       "Rele NT75CS16DC12V0.415.0 16A 12V"                        
+U8         GEN5            TopLayer    relays_spco_thd_28x12mm_5mm   7.0202       -19.8926     90       "Rele NT75CS16DC12V0.415.0 16A 12V"                        
+U7         GEN4            TopLayer    relays_spco_thd_28x12mm_5mm   21.0202      -19.8926     90       "Rele NT75CS16DC12V0.415.0 16A 12V"                        
+U6         ULN2803         TopLayer    SOIC18                        -19.6498     3.7798       270      "BJT Darlinton Array"                                      
+U5         24C128          TopLayer    SOIC8                         -35.2850     -39.8000     90       EEPROM                                                     
+U4         AD8418BRMZ      TopLayer    MSOP65P490X110-8P             -66.7498     9.5000       90       "12bit DAC"                                                
+U3         AD8418BRMZ      TopLayer    MSOP65P490X110-8P             -66.7498     -0.5000      90       "12bit DAC"                                                
+U2         "TLV431 SOT23"  TopLayer    SOT-23                        -56.5000     36.5000      360      TLV431BQDBZT                                               
+U1         AD7998BRU       TopLayer    TSOP65P640X120-20L            -57.5000     24.5000      270      "ADC 12bit I2C"                                            
+R77        22R             TopLayer    0603_[1608]                   29.4500      26.0000      360      Resistor                                                   
+R76        22R             TopLayer    0603_[1608]                   29.4500      22.7500      360      Resistor                                                   
+R75        220R            TopLayer    0603_[1608]                   14.5000      28.0002      90       Resistor                                                   
+R74        22R             TopLayer    0603_[1608]                   29.4500      15.2500      360      Resistor                                                   
+R73        1k              TopLayer    0603_[1608]                   0.2500       17.5002      90       Resistor                                                   
+R72        1k              TopLayer    0603_[1608]                   0.2500       22.5002      90       Resistor                                                   
+R71        22R             TopLayer    0603_[1608]                   29.4500      12.0000      360      Resistor                                                   
+R70        220R            TopLayer    0603_[1608]                   14.5000      17.2502      90       Resistor                                                   
+R69        NP              TopLayer    0603_[1608]                   24.3000      1.4939       270      Resistor                                                   
+R68        1k              TopLayer    0603_[1608]                   26.2998      0.7939       180      Resistor                                                   
+R67        NP              TopLayer    0603_[1608]                   24.3000      5.2938       270      Resistor                                                   
+R66        1k              TopLayer    0603_[1608]                   26.2998      4.5439       180      Resistor                                                   
+R65        33R             TopLayer    0603_[1608]                   -61.2498     -23.7499     360      Resistor                                                   
+R64        33R             TopLayer    0603_[1608]                   30.7502      -20.7500     360      Resistor                                                   
+R63        33R             TopLayer    0603_[1608]                   30.7498      -16.5000     180      Resistor                                                   
+R62        33R             TopLayer    0603_[1608]                   -40.0002     -26.5000     180      Resistor                                                   
+R61        33R             TopLayer    0603_[1608]                   -52.2502     17.5000      180      Resistor                                                   
+R60        33R             TopLayer    0603_[1608]                   -52.2502     20.5000      180      Resistor                                                   
+R59        33R             TopLayer    0603_[1608]                   -48.7502     -23.7499     180      Resistor                                                   
+R58        0R              TopLayer    0603_[1608]                   -56.0000     -32.8496     90       Resistor                                                   
+R57        0R              TopLayer    0603_[1608]                   -54.0000     -32.7998     90       Resistor                                                   
+R54        33R             TopLayer    0603_[1608]                   -6.0000      33.7502      90       Resistor                                                   
+R53        33R             TopLayer    0603_[1608]                   -4.5000      33.7498      270      Resistor                                                   
+R51        33R             TopLayer    0603_[1608]                   -9.0000      33.7502      90       Resistor                                                   
+R50        33R             TopLayer    0603_[1608]                   -7.5000      33.7498      270      Resistor                                                   
+R48        33R             TopLayer    0603_[1608]                   -11.5000     33.7502      90       Resistor                                                   
+R47        33R             TopLayer    0603_[1608]                   -13.2500     33.7498      270      Resistor                                                   
+R45        33R             TopLayer    0603_[1608]                   -15.0000     33.7502      90       Resistor                                                   
+R44        33R             TopLayer    0603_[1608]                   -16.7500     33.7498      270      Resistor                                                   
+R41        33R             TopLayer    0603_[1608]                   -21.7500     35.2498      270      Resistor                                                   
+R39        "50 mOhm 1%"    TopLayer    1210_[3225]                   -70.7498     9.5000       90       Resistor                                                   
+R38        "50 mOhm 1%"    TopLayer    1210_[3225]                   -74.7498     9.5000       90       Resistor                                                   
+R37        NP              TopLayer    0603_[1608]                   -68.7500     16.9998      270      Resistor                                                   
+R36        0R              TopLayer    0603_[1608]                   -72.2498     17.7500      360      Resistor                                                   
+R35        33R             TopLayer    0603_[1608]                   -66.7502     17.7500      180      Resistor                                                   
+R34        NP              TopLayer    0603_[1608]                   -70.2500     30.7498      270      Resistor                                                   
+R33        0R              TopLayer    0603_[1608]                   -72.2498     31.5000      360      Resistor                                                   
+R32        33R             TopLayer    0603_[1608]                   -66.5002     31.5000      180      Resistor                                                   
+R31        "50 mOhm 1%"    TopLayer    1210_[3225]                   -70.7498     -0.5000      90       Resistor                                                   
+R30        "50 mOhm 1%"    TopLayer    1210_[3225]                   -74.7498     -0.5000      90       Resistor                                                   
+R29        NP              TopLayer    0603_[1608]                   -60.9998     13.2498      270      Resistor                                                   
+R28        0R              TopLayer    0603_[1608]                   -64.9996     14.0000      360      Resistor                                                   
+R27        33R             TopLayer    0603_[1608]                   -58.9999     14.0000      180      Resistor                                                   
+R26        NP              TopLayer    0603_[1608]                   -60.9998     3.2498       270      Resistor                                                   
+R25        0R              TopLayer    0603_[1608]                   -64.9996     4.0000       360      Resistor                                                   
+R24        33R             TopLayer    0603_[1608]                   -58.9999     4.0000       180      Resistor                                                   
+R23        1k              TopLayer    0603_[1608]                   -23.2500     35.2502      90       Resistor                                                   
+R22        NP              TopLayer    0603_[1608]                   -70.7500     21.9998      270      Resistor                                                   
+R21        "8K2 1%"        TopLayer    0603_[1608]                   -59.9998     38.7500      360      Resistor                                                   
+R20        "47K 1%"        TopLayer    0603_[1608]                   -56.9998     39.0000      360      Resistor                                                   
+R19        0R              TopLayer    0603_[1608]                   -74.2498     22.7500      360      Resistor                                                   
+R18        33R             TopLayer    0603_[1608]                   -68.7502     22.7500      180      Resistor                                                   
+R17        "10K 1%"        TopLayer    0603_[1608]                   -59.2500     36.5002      90       Resistor                                                   
+R16        NP              TopLayer    0603_[1608]                   -70.7500     24.9998      270      Resistor                                                   
+R15        10k             TopLayer    0603_[1608]                   -52.2498     16.0000      360      Resistor                                                   
+R14        0R              TopLayer    0603_[1608]                   -74.2498     25.7500      360      Resistor                                                   
+R13        33R             TopLayer    0603_[1608]                   -68.7502     25.7500      180      Resistor                                                   
+R12        10k             TopLayer    0603_[1608]                   -52.2498     19.0000      360      Resistor                                                   
+R11        33R             TopLayer    0603_[1608]                   -57.7500     33.4998      270      Resistor                                                   
+R10        0R              TopLayer    0603_[1608]                   -60.7500     33.4998      270      Resistor                                                   
+R9         NP              TopLayer    0603_[1608]                   -70.5502     34.9998      270      Resistor                                                   
+R8         0R              TopLayer    0603_[1608]                   -52.3500     25.0250      90       Resistor                                                   
+R7         0R              TopLayer    0603_[1608]                   -74.0500     35.7500      360      Resistor                                                   
+R6         33R             TopLayer    0603_[1608]                   -68.5503     35.7500      180      Resistor                                                   
+R5         NP              TopLayer    0603_[1608]                   -56.2500     30.2502      90       Resistor                                                   
+R4         NP              TopLayer    0603_[1608]                   -60.7500     30.2502      90       Resistor                                                   
+R3         NP              TopLayer    0603_[1608]                   -70.5502     38.2498      270      Resistor                                                   
+R2         33R             TopLayer    0603_[1608]                   -68.5503     38.7500      180      Resistor                                                   
+R1         0R              TopLayer    0603_[1608]                   -74.0500     38.7500      360      Resistor                                                   
+L1         10uH            TopLayer    1210_[3225]                   -52.3500     33.8002      270      "INDUCTOR, 1210 CASE, 10.0UH (ELJPA100KF)"                 
+J14        "EVA01 - RIGHT" BottomLayer SOCKET_2x26_2.54MM_THD        35.5421      0.0000       270      "Socket Header, 52 pin, 26x2, 2.54mm, H=8.5mm"             
+J13        "EVA01 - LEFT"  BottomLayer SOCKET_2x26_2.54MM_THD        -35.5776     0.0098       270      "Socket Header, 52 pin, 26x2, 2.54mm, H=8.5mm"             
+J12        "EVA01 - TOP"   BottomLayer SOCKET_2x26_2.54MM_THD        -0.0202      40.6194      360      "Socket Header, 52 pin, 26x2, 2.54mm, H=8.5mm"             
+J11        OUT2-3          TopLayer    TBLOCK_1X3_3.5MM_HOR_THD      44.6500      -1.0003      90       "Terminal block Header 3.5mm Horizonta"                    
+J10        "IN1 PHOTO"     TopLayer    TBLOCK_1X2_3.5MM_HOR_THD      44.7000      21.0000      90       "Terminal block Header 3.5mm Horizontal (WE 691322110002)" 
+J9         "IN0 PHOTO"     TopLayer    TBLOCK_1X2_3.5MM_HOR_THD      44.7000      12.0000      90       "Terminal block Header 3.5mm Horizontal (WE 691322110002)" 
+J8         CURR1           TopLayer    TBLOCK_1X2_3.5MM_HOR_THD      -78.7498     10.0000      270      "Terminal block Header 3.5mm Horizontal (WE 691322110002)" 
+J7         CURR0           TopLayer    TBLOCK_1X2_3.5MM_HOR_THD      -78.7498     -1.0000      270      "Terminal block Header 3.5mm Horizontal (WE 691322110002)" 
+J6         ADC2-3          TopLayer    TBLOCK_1X3_3.5MM_HOR_THD      -78.7500     21.2503      270      "Terminal block Header 3.5mm Horizonta"                    
+J5         OUT3            TopLayer    TBLOCK_1X3_3.5MM_HOR_THD      -19.4801     -43.8926     360      "Terminal block Header 3.5mm Horizonta"                    
+J4         OUT2            TopLayer    TBLOCK_1X3_3.5MM_HOR_THD      -6.4800      -43.8926     360      "Terminal block Header 3.5mm Horizonta"                    
+J3         ADC0-1          TopLayer    TBLOCK_1X3_3.5MM_HOR_THD      -78.7500     34.2503      270      "Terminal block Header 3.5mm Horizonta"                    
+J2         OUT1            TopLayer    TBLOCK_1X3_3.5MM_HOR_THD      6.5199       -43.8926     360      "Terminal block Header 3.5mm Horizonta"                    
+J1         OUT0            TopLayer    TBLOCK_1X3_3.5MM_HOR_THD      19.5200      -43.8926     360      "Terminal block Header 3.5mm Horizonta"                    
+DZ2        BZX84-C2V7      TopLayer    SOT-23                        29.7000      28.9998      90       "Zener 2,7V"                                               
+DZ1        BZX84-C2V7      TopLayer    SOT-23                        29.6998      18.2500      90       "Zener 2,7V"                                               
+C21        NP              TopLayer    0603_[1608]                   22.8000      1.5438       270      "Ceramic X7R 50V"                                          
+C20        NP              TopLayer    0603_[1608]                   22.8000      5.2938       270      "Ceramic X7R 50V"                                          
+C19        100nF           TopLayer    0603_[1608]                   -38.7500     -37.4998     90       "Ceramic X7R 50V"                                          
+C18        100nF           TopLayer    0603_[1608]                   -70.2500     17.0002      90       "Ceramic X7R 50V"                                          
+C17        100nF           TopLayer    0603_[1608]                   -63.9998     11.7498      270      "Ceramic X7R 50V"                                          
+C16        100nF           TopLayer    0603_[1608]                   -68.7500     30.7502      90       "Ceramic X7R 50V"                                          
+C15        100nF           TopLayer    0603_[1608]                   -62.4998     13.2502      90       "Ceramic X7R 50V"                                          
+C14        100nF           TopLayer    0603_[1608]                   -63.9998     1.7498       270      "Ceramic X7R 50V"                                          
+C13        100nF           TopLayer    0603_[1608]                   -62.4998     3.2502       90       "Ceramic X7R 50V"                                          
+C12        100nF           TopLayer    0603_[1608]                   -72.2500     22.0002      90       "Ceramic X7R 50V"                                          
+C11        100nF           TopLayer    0603_[1608]                   -59.2500     33.5002      90       "Ceramic X7R 50V"                                          
+C10        10uF            TopLayer    0805_[2012]                   -60.7500     36.5000      90       "Ceramic X5R 10V"                                          
+C9         100nF           TopLayer    0603_[1608]                   -56.2500     33.4998      270      "Ceramic X7R 50V"                                          
+C8         100nF           TopLayer    0603_[1608]                   -72.2500     25.0002      90       "Ceramic X7R 50V"                                          
+C7         100nF           TopLayer    0603_[1608]                   -72.0502     35.0002      90       "Ceramic X7R 50V"                                          
+C6         1uF             TopLayer    0603_[1608]                   -57.7500     30.2498      270      "Ceramic X5R 25V"                                          
+C5         100nF           TopLayer    0603_[1608]                   -59.2500     30.2498      270      "Ceramic X7R 50V"                                          
+C4         100nF           TopLayer    0603_[1608]                   -54.0500     30.2498      270      "Ceramic X7R 50V"                                          
+C3         10uF            TopLayer    0805_[2012]                   -51.3500     28.2985      360      "Ceramic X5R 10V"                                          
+C2         100nF           TopLayer    0603_[1608]                   -72.0502     38.2502      90       "Ceramic X7R 50V"                                          
+C1         10uF            TopLayer    1206_[3216]                   -51.0500     30.4498      180      "Ceramic X7R 25V"                                          

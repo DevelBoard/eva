@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: C:\Users\Asterix\Documents\github\eva01\shield_io\shield_io.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_poly|Scope=Board|Minimum=33.46
+RuleKind=Clearance|RuleName=Clearance_015|Scope=Board|Minimum=3.94
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_via|Scope=Board|Minimum=-393.70
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.84
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
