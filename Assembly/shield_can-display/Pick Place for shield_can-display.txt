@@ -1,117 +1,107 @@
-Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+Altium Designer Pick and Place Locations
+C:\Users\Asterix\Documents\github\eva01\Assembly\shield_can-display\Pick Place for shield_can-display.txt
 
-R54        0603_[1608]         56.4998mm       88.25mm        56.5mm       88.25mm     57.1998mm       88.25mm  B        180.00 0R             
-R53        0603_[1608]         60.4998mm       88.25mm        60.5mm       88.25mm     61.1998mm       88.25mm  B        180.00 0R             
-R52        0603_[1608]             156mm     70.0002mm         156mm          70mm         156mm     69.3002mm  B         90.00 0R             
-R51        0603_[1608]           143.5mm     70.0002mm       143.5mm          70mm       143.5mm     69.3002mm  B         90.00 0R             
-R50        0603_[1608]           160.5mm     70.0002mm       160.5mm          70mm       160.5mm     69.3002mm  B         90.00 0R             
-R49        0603_[1608]             165mm     70.0002mm         165mm          70mm         165mm     69.3002mm  B         90.00 0R             
-R48        0603_[1608]             159mm     70.0002mm         159mm          70mm         159mm     69.3002mm  B         90.00 0R             
-R46        0603_[1608]             162mm     70.0002mm         162mm          70mm         162mm     69.3002mm  B         90.00 0R             
-J11        fcc-zif_10pin_0.5mm       161.5mm          65mm       161.5mm          65mm      163.75mm       65.99mm  B        180.00 Capacitive Touch
-C23        0603_[1608]         62.1998mm       74.85mm        62.2mm       74.85mm     62.8998mm       74.85mm  B        180.00 100nF          
-Y1         CRYSTAL_3.2X2.5MM_4P_SMD        87.4mm        92.5mm        87.4mm        92.5mm     86.5999mm     91.4002mm  B         90.00 16MHz          
-U6         PQFN50P300X200X75_HS-9L        34.1mm        26.3mm        34.1mm        26.3mm      34.975mm       27.05mm  B        270.00 LT3591EDDB     
-U5         SOIC8              102.9996mm     47.0003mm    102.9996mm     47.0003mm    101.0946mm     49.4502mm  B        270.00 24C128         
-U4         SOIC8                  97.9mm        22.8mm        97.9mm        22.8mm      95.995mm       25.25mm  B        270.00 SN65HVD12      
-U3         SOIC16                 71.5mm        25.5mm        71.5mm        25.5mm      67.055mm       27.85mm  B        270.00 ST3232EBDR     
-U1         SOIC8                 116.9mm          26mm       116.9mm          26mm     114.995mm       28.45mm  B        270.00 SN65HVD230     
-R42        0603_[1608]           69.75mm     19.4998mm       69.75mm        19.5mm       69.75mm     20.1998mm  B        270.00 22R            
-R41        0603_[1608]           71.25mm     19.4998mm       71.25mm        19.5mm       71.25mm     20.1998mm  B        270.00 NP             
-R40        0603_[1608]           66.75mm     19.4998mm       66.75mm        19.5mm       66.75mm     20.1998mm  B        270.00 22R            
-R39        0603_[1608]              74mm     19.5002mm          74mm        19.5mm          74mm     18.8002mm  B         90.00 22R            
-R38        0603_[1608]         56.4998mm        86.9mm        56.5mm        86.9mm     57.1998mm        86.9mm  B        180.00 NP             
-R37        0603_[1608]         56.4998mm        84.2mm        56.5mm        84.2mm     57.1998mm        84.2mm  B        180.00 0R             
-R36        0603_[1608]         60.4998mm        86.9mm        60.5mm        86.9mm     61.1998mm        86.9mm  B        180.00 NP             
-R35        0603_[1608]         60.4998mm        84.2mm        60.5mm        84.2mm     61.1998mm        84.2mm  B        180.00 0R             
-R34        0603_[1608]         56.4998mm        82.9mm        56.5mm        82.9mm     57.1998mm        82.9mm  B        180.00 NP             
-R33        0603_[1608]            47.2mm     14.8002mm        47.2mm        14.8mm        47.2mm     14.1002mm  B         90.00 22R            
-R32        0603_[1608]         60.4998mm        82.9mm        60.5mm        82.9mm     61.1998mm        82.9mm  B        180.00 NP             
-R31        0603_[1608]           166.5mm     70.0002mm       166.5mm          70mm       166.5mm     69.3002mm  B         90.00 0R             
-R30        0603_[1608]           149.5mm     69.9998mm       149.5mm          70mm       149.5mm     70.6998mm  B        270.00 4K7            
-R29        0603_[1608]             151mm     69.9998mm         151mm          70mm         151mm     70.6998mm  B        270.00 4K7            
-R28        0603_[1608]         31.4998mm        28.8mm        31.5mm        28.8mm     32.1998mm        28.8mm  B        180.00 220K 1%        
-R27        0603_[1608]         31.5002mm       31.75mm        31.5mm       31.75mm     30.8002mm       31.75mm  B        360.00 820K 1%        
-R26        0603_[1608]         31.4998mm       33.25mm        31.5mm       33.25mm     32.1998mm       33.25mm  B        180.00 390K 1%        
-R25        0603_[1608]            31.7mm     25.9998mm        31.7mm          26mm        31.7mm     26.6998mm  B        270.00 6R8 1%         
-R24        0603_[1608]           30.25mm     25.9998mm       30.25mm          26mm       30.25mm     26.6998mm  B        270.00 1R5 1%         
-R23        0603_[1608]            99.1mm     28.2998mm        99.1mm        28.3mm        99.1mm     28.9998mm  B        270.00 10K            
-R22        0603_[1608]            97.8mm     28.2998mm        97.8mm        28.3mm        97.8mm     28.9998mm  B        270.00 10K            
-R21        0603_[1608]            98.6mm     16.9998mm        98.6mm          17mm        98.6mm     17.6998mm  B        270.00 22R            
-R20        0603_[1608]           100.4mm     28.3002mm       100.4mm        28.3mm       100.4mm     27.6002mm  B         90.00 22R            
-R19        0603_[1608]            96.5mm     28.3002mm        96.5mm        28.3mm        96.5mm     27.6002mm  B         90.00 NP             
-R18        0603_[1608]            97.2mm     16.9998mm        97.2mm          17mm        97.2mm     17.6998mm  B        270.00 22R            
-R17        0603_[1608]            95.2mm     28.3002mm        95.2mm        28.3mm        95.2mm     27.6002mm  B         90.00 22R            
-R16        0603_[1608]           72.75mm     19.5002mm       72.75mm        19.5mm       72.75mm     18.8002mm  B         90.00 22R            
-R15        0603_[1608]           68.25mm     19.4998mm       68.25mm        19.5mm       68.25mm     20.1998mm  B        270.00 NP             
-R14        0603_[1608]           106.5mm      7.9002mm       106.5mm         7.9mm       106.5mm      7.2002mm  B         90.00 120R           
-R13        0603_[1608]           113.5mm     23.4002mm       113.5mm        23.4mm       113.5mm     22.7002mm  B         90.00 1K             
-R12        0603_[1608]           120.3mm     23.3998mm       120.3mm        23.4mm       120.3mm     24.0998mm  B        270.00 0R             
-R11        0603_[1608]        124.3002mm         7.6mm       124.3mm         7.6mm    123.6002mm         7.6mm  B        360.00 56R            
-R10        0603_[1608]            93.8mm    102.3998mm        93.8mm       102.4mm        93.8mm    103.0998mm  B        270.00 22R            
-R9         0603_[1608]        124.3002mm         6.3mm       124.3mm         6.3mm    123.6002mm         6.3mm  B        360.00 56R            
-R8         0603_[1608]           120.3mm     28.2998mm       120.3mm        28.3mm       120.3mm     28.9998mm  B        270.00 22R            
-R7         0603_[1608]            95.1mm    102.3998mm        95.1mm       102.4mm        95.1mm    103.0998mm  B        270.00 22R            
-R6         0603_[1608]            96.4mm    102.3998mm        96.4mm       102.4mm        96.4mm    103.0998mm  B        270.00 22R            
-R5         0603_[1608]           113.5mm     28.2998mm       113.5mm        28.3mm       113.5mm     28.9998mm  B        270.00 22R            
-R4         0603_[1608]            97.7mm    102.3998mm        97.7mm       102.4mm        97.7mm    103.0998mm  B        270.00 22R            
-R3         0603_[1608]              99mm    102.3998mm          99mm       102.4mm          99mm    103.0998mm  B        270.00 22R            
-R2         0603_[1608]             105mm     99.0998mm         105mm        99.1mm         105mm     99.7998mm  B        270.00 22R            
-R1         0603_[1608]             105mm       101.7mm         105mm    101.7002mm         105mm       102.4mm  B        270.00 100K           
-L2         WE-TPC-6823-X          39.7mm        26.3mm        39.7mm        26.3mm        39.7mm      23.125mm  B         90.00 22uH - WE 744062220
-L1         WE-SL2                116.9mm        16.3mm       116.9mm        16.3mm      115.63mm       20.05mm  B        270.00 WE 744222      
-J10        fcc-zif_4pin_1mm        66.5mm        84.7mm        66.5mm        84.7mm        65.3mm        86.2mm  B        270.00 Resistive Touch
-J9         fcc-zif_10pin_0.5mm         146mm          65mm         146mm          65mm      148.25mm       65.99mm  B        180.00 Capacitive Touch
-J8         FCC-ZIF_40PIN_0.5MM          71mm      71.745mm          71mm          72mm       80.75mm       72.99mm  B        180.00 LCD Display Bus
-J7         SOCKET_2x26_2.54MM_SMD     78.5799mm      108.56mm     78.5799mm      108.56mm     46.8299mm      111.16mm  B        360.00 EVA01 - RIGHT  
-J6         SOCKET_2x26_2.54MM_SMD     78.5802mm       37.44mm     78.5802mm       37.44mm     46.8302mm       40.04mm  B        360.00 EVA01 - LEFT   
-J5         SOCKET_2x26_2.54MM_SMD     37.9401mm     73.0102mm     37.9401mm     73.0102mm     35.3401mm     41.2602mm  B         90.00 EVA01 - TOP    
-J4         TBLOCK_1X3_3.5MM_HOR_THD     96.5001mm           8mm     96.4999mm           8mm    100.0001mm           8mm  B        180.00 RS485          
-J3         DSUB1.385-2H9_FEMALE          70mm        14.5mm          70mm           5mm       64.46mm       15.92mm  B        360.00 RS232          
-J2         HEADER_1X2_2.54MM_THD       105.7mm         3.5mm       105.7mm         3.5mm       105.7mm        4.77mm  B        270.00 RS485 TERM     
-J1         TBLOCK_1X3_3.5MM_HOR_THD    116.5001mm           8mm    116.4999mm           8mm    120.0001mm           8mm  B        180.00 CAN            
-D6         DO214AA_12            104.6mm        15.7mm       104.6mm        15.7mm       104.6mm     13.3505mm  B         90.00 SMBJ12CA       
-D5         DO214AA_12               98mm        13.3mm          98mm        13.3mm     95.6505mm        13.3mm  B        360.00 SMBJ12CA       
-D4         DO214AA_12             91.1mm        15.7mm        91.1mm        15.7mm        91.1mm     13.3505mm  B         90.00 SMBJ12CA       
-D3         DO214AA_12            122.7mm        15.7mm       122.7mm        15.7mm       122.7mm     18.0495mm  B        270.00 SMBJ12CA       
-D2         DO214AA_12            111.1mm        15.7mm       111.1mm        15.7mm       111.1mm     18.0495mm  B        270.00 SMBJ12CA       
-D1         SOT-23                107.5mm       101.9mm       107.5mm       101.9mm      108.45mm    100.8625mm  B         90.00 BAV70          
-C21        0603_[1608]             142mm     70.0002mm         142mm          70mm         142mm     69.3002mm  B         90.00 100nF          
-C20        0603_[1608]            48.8mm     14.7998mm        48.8mm        14.8mm        48.8mm     15.4998mm  B        270.00 100nF          
-C19        0603_[1608]         31.5002mm       30.25mm        31.5mm       30.25mm     30.8002mm       30.25mm  B        360.00 100nF          
-C18        0603_[1608]            33.4mm     22.9002mm        33.4mm        22.9mm        33.4mm     22.2002mm  B         90.00 100nF          
-C17        1210_[3225]            31.1mm        22.6mm        31.1mm        22.6mm        31.1mm       21.25mm  B         90.00 2.2uF          
-C16        0603_[1608]         34.3002mm        28.8mm        34.3mm        28.8mm     33.6002mm        28.8mm  B        360.00 1uF            
-C15        0603_[1608]         34.2502mm       30.25mm       34.25mm       30.25mm     33.5502mm       30.25mm  B        360.00 100nF          
-C14        0603_[1608]            99.7mm        44.3mm        99.7mm     44.2998mm        99.7mm        43.6mm  B         90.00 100nF          
-C13        0603_[1608]            65.4mm     23.2998mm        65.4mm        23.3mm        65.4mm     23.9998mm  B        270.00 100nF          
-C12        0603_[1608]            73.4mm     30.5998mm        73.4mm        30.6mm        73.4mm     31.2998mm  B        270.00 100nF          
-C11        0603_[1608]            70.9mm     30.5998mm        70.9mm        30.6mm        70.9mm     31.2998mm  B        270.00 100nF          
-C10        0603_[1608]            68.5mm     30.4998mm        68.5mm        30.5mm        68.5mm     31.1998mm  B        270.00 100nF          
-C9         0603_[1608]          67.029mm     30.5752mm      67.029mm      30.575mm      67.029mm     29.8752mm  B         90.00 100nF          
-C8         0603_[1608]             105mm      7.9002mm         105mm         7.9mm         105mm      7.2002mm  B         90.00 100nF          
-C7         0603_[1608]            94.5mm     20.1002mm        94.5mm        20.1mm        94.5mm     19.4002mm  B         90.00 100nF          
-C6         0603_[1608]            84.8mm     91.6998mm        84.8mm        91.7mm        84.8mm     92.3998mm  B        270.00 15pF           
-C5         0603_[1608]         87.4998mm        95.4mm        87.5mm        95.4mm     88.1998mm        95.4mm  B        180.00 15pF           
-C4         0603_[1608]        124.3002mm         8.9mm       124.3mm         8.9mm    123.6002mm         8.9mm  B        360.00 100nF          
-C3         0603_[1608]           103.7mm     99.0998mm       103.7mm        99.1mm       103.7mm     99.7998mm  B        270.00 100nF          
-C2         0603_[1608]           103.7mm     96.4998mm       103.7mm        96.5mm       103.7mm     97.1998mm  B        270.00 100nF          
-C1         0603_[1608]        116.9002mm        30.8mm       116.9mm        30.8mm    116.2002mm        30.8mm  B        360.00 100nF          
-R43        0603_[1608]            57.5mm     19.5998mm        57.5mm        19.6mm        57.5mm     20.2998mm  B        270.00 NP (0R)        
-U2         SOIC18                 96.4mm        94.7mm        96.4mm        94.7mm      101.48mm       90.15mm  B         90.00 MCP2515-I/SO   
-C22        0603_[1608]             168mm     70.0002mm         168mm          70mm         168mm     69.3002mm  B         90.00 100nF          
-R44        0603_[1608]           163.5mm     70.0002mm       163.5mm          70mm       163.5mm     69.3002mm  B         90.00 0R             
-SW1        TACTILE_SWITCH_6x6MM_SMD        49.5mm         7.5mm        49.5mm         7.5mm       47.25mm          12mm  B        180.00 RESET          
-R45        0603_[1608]             145mm     70.0002mm         145mm          70mm         145mm     69.3002mm  B         90.00 0R             
-R47        0603_[1608]           146.5mm     70.0002mm       146.5mm          70mm       146.5mm     69.3002mm  B         90.00 0R             
-R55        0603_[1608]             148mm     70.0002mm         148mm          70mm         148mm     69.3002mm  B         90.00 0R             
-R56        0603_[1608]           154.5mm     70.0002mm       154.5mm          70mm       154.5mm     69.3002mm  B         90.00 0R             
-R57        0603_[1608]           157.5mm     70.0002mm       157.5mm          70mm       157.5mm     69.3002mm  B         90.00 0R             
-R58        0603_[1608]           98.75mm     53.9998mm       98.75mm          54mm       98.75mm     54.6998mm  B        270.00 0R             
-R59        0603_[1608]          101.75mm     53.9998mm      101.75mm          54mm      101.75mm     54.6998mm  B        270.00 NP             
-R60        0603_[1608]          104.75mm     53.9998mm      104.75mm          54mm      104.75mm     54.6998mm  B        270.00 NP             
-R61        0603_[1608]          100.25mm     53.9998mm      100.25mm          54mm      100.25mm     54.6998mm  B        270.00 NP             
-R62        0603_[1608]          103.25mm     53.9998mm      103.25mm          54mm      103.25mm     54.6998mm  B        270.00 0R             
-R63        0603_[1608]          106.25mm     53.9998mm      106.25mm          54mm      106.25mm     54.6998mm  B        270.00 0R             
-R64        0603_[1608]         31.5002mm       34.75mm        31.5mm       34.75mm     30.8002mm       34.75mm  B        360.00 1K             
+========================================================================================================================
+File Design Information:
 
+Date:       08-11-19
+Time:       18:30
+Revision:   442c1bbbed6456df9d31df6b244a35881c3985b7
+Variant:    No variations
+Units used: mm
+
+Designator Comment               Layer       Footprint                       Center-X(mm) Center-Y(mm) Rotation Description                                                                             
+R57        33R                   BottomLayer 0603_[1608]                     32.6000      18.5002      90       Resistor                                                                                
+R52        33R                   BottomLayer 0603_[1608]                     31.3000      18.5002      90       Resistor                                                                                
+R50        33R                   BottomLayer 0603_[1608]                     30.0000      18.5002      90       Resistor                                                                                
+R49        33R                   BottomLayer 0603_[1608]                     28.7000      18.5002      90       Resistor                                                                                
+R30        2k2                   BottomLayer 0603_[1608]                     28.7000      21.7998      270      "Resistor 0.125W"                                                                       
+R29        2k2                   BottomLayer 0603_[1608]                     30.0000      21.7998      270      "Resistor 0.125W"                                                                       
+C21        100nF                 BottomLayer 0603_[1608]                     26.8000      18.5002      90       "Ceramic X7R 50V"                                                                       
+R64        1K                    BottomLayer 0603_[1608]                     -60.9998     -27.7500     360      Resistor                                                                                
+R63        0R                    BottomLayer 0603_[1608]                     13.7500      -8.5002      270      Resistor                                                                                
+R62        0R                    BottomLayer 0603_[1608]                     10.7500      -8.5002      270      Resistor                                                                                
+R61        NP                    BottomLayer 0603_[1608]                     7.7500       -8.5002      270      Resistor                                                                                
+R60        NP                    BottomLayer 0603_[1608]                     12.2500      -8.5002      270      Resistor                                                                                
+R59        NP                    BottomLayer 0603_[1608]                     9.2500       -8.5002      270      Resistor                                                                                
+R58        0R                    BottomLayer 0603_[1608]                     6.2500       -8.5002      270      Resistor                                                                                
+SW1        RESET                 BottomLayer TACTILE_SWITCH_6x6MM_SMD        -43.0000     -63.0000     180      "Tactile switch smd H=4.3mm 10x6mm (like cod. Farnell 2435308)"                         
+U2         MCP2515-I/SO          BottomLayer SOIC18                          3.9000       32.2000      90       "Stand-Alone CAN controller with SPI interface"                                         
+R43        "NP (0R)"             BottomLayer 0603_[1608]                     -35.0000     -50.9002     270      Resistor                                                                                
+C1         100nF                 BottomLayer 0603_[1608]                     24.4002      -39.7000     360      "Ceramic X7R 50V"                                                                       
+C2         100nF                 BottomLayer 0603_[1608]                     11.2000      33.9998      270      "Ceramic X7R 50V"                                                                       
+C3         100nF                 BottomLayer 0603_[1608]                     11.2000      36.5998      270      "Ceramic X7R 50V"                                                                       
+C4         100nF                 BottomLayer 0603_[1608]                     31.8002      -61.6000     360      "Ceramic X7R 50V"                                                                       
+C5         15pF                  BottomLayer 0603_[1608]                     -5.0002      32.9000      180      "Ceramic 50V NP0/C0G"                                                                   
+C6         15pF                  BottomLayer 0603_[1608]                     -7.7000      29.1998      270      "Ceramic 50V NP0/C0G"                                                                   
+C7         100nF                 BottomLayer 0603_[1608]                     2.0000       -50.3998     90       "Ceramic X7R 50V"                                                                       
+C8         100nF                 BottomLayer 0603_[1608]                     12.5000      -62.5998     90       "Ceramic X7R 50V"                                                                       
+C9         100nF                 BottomLayer 0603_[1608]                     -25.4710     -39.9248     90       "Ceramic X7R 50V"                                                                       
+C10        100nF                 BottomLayer 0603_[1608]                     -24.0000     -40.0002     270      "Ceramic X7R 50V"                                                                       
+C11        100nF                 BottomLayer 0603_[1608]                     -21.6000     -39.9002     270      "Ceramic X7R 50V"                                                                       
+C12        100nF                 BottomLayer 0603_[1608]                     -19.1000     -39.9002     270      "Ceramic X7R 50V"                                                                       
+C13        100nF                 BottomLayer 0603_[1608]                     -27.1000     -47.2002     270      "Ceramic X7R 50V"                                                                       
+C14        100nF                 BottomLayer 0603_[1608]                     7.2000       -18.2000     90       "Ceramic X7R 50V"                                                                       
+C15        100nF                 BottomLayer 0603_[1608]                     -58.2498     -32.2500     360      "Ceramic X7R 50V"                                                                       
+C16        1uF                   BottomLayer 0603_[1608]                     -58.1998     -33.7000     360      "Ceramic X7R, X5R 16V"                                                                  
+C17        2.2uF                 BottomLayer 1210_[3225]                     -61.4000     -39.9000     90       "Ceramic X7R, X5R 50V"                                                                  
+C18        100nF                 BottomLayer 0603_[1608]                     -59.1000     -39.5998     90       "Ceramic X7R 50V"                                                                       
+C19        100nF                 BottomLayer 0603_[1608]                     -60.9998     -32.2500     360      "Ceramic X7R 50V"                                                                       
+C20        100nF                 BottomLayer 0603_[1608]                     -43.7000     -55.7002     270      "Ceramic X7R 50V"                                                                       
+D1         BAV70                 BottomLayer SOT-23                          15.0000      39.4000      90       Diode                                                                                   
+D2         SMBJ12CA              BottomLayer DO214AA_12                      18.6000      -54.8000     270      "TVS bidirectional"                                                                     
+D3         SMBJ12CA              BottomLayer DO214AA_12                      30.2000      -54.8000     270      "TVS bidirectional"                                                                     
+D4         SMBJ12CA              BottomLayer DO214AA_12                      -1.4000      -54.8000     90       "TVS bidirectional"                                                                     
+D5         SMBJ12CA              BottomLayer DO214AA_12                      5.5000       -57.2000     360      "TVS bidirectional"                                                                     
+D6         SMBJ12CA              BottomLayer DO214AA_12                      12.1000      -54.8000     90       "TVS bidirectional"                                                                     
+J1         CAN                   BottomLayer TBLOCK_1X3_3.5MM_HOR_THD        24.0001      -62.5000     180      "Terminal block Header 3.5mm Horizontal (WE 691322110003)"                              
+J2         "RS485 TERM"          BottomLayer HEADER_1X2_2.54MM_THD           13.2000      -67.0000     270      "Pin Header, 2.54mm, 1x2, 2pin"                                                         
+J3         RS232                 BottomLayer DSUB1.385-2H9_FEMALE            -22.5000     -56.0000     360      "Receptacle Assembly, 9 Position, Right Angle (WE 618009231421)"                        
+J4         RS485                 BottomLayer TBLOCK_1X3_3.5MM_HOR_THD        4.0001       -62.5000     180      "Terminal block Header 3.5mm Horizontal (WE 691322110003)"                              
+J5         "EVA01 - TOP"         BottomLayer SOCKET_2x26_2.54MM_SMD          -54.5599     10.5102      90       "Socket Header, 26 pin, 13x2, 2.54mm, H=8.5mm"                                          
+J6         "EVA01 - LEFT"        BottomLayer SOCKET_2x26_2.54MM_SMD          -13.9198     -25.0600     360      "Pin header 26x2"                                                                       
+J7         "EVA01 - RIGHT"       BottomLayer SOCKET_2x26_2.54MM_SMD          -13.9201     46.0600      360      "Pin header 26x2"                                                                       
+J8         "LCD Display Bus"     BottomLayer FCC-ZIF_40PIN_0.5MM             59.4957      16.4350      180      "40-pin, 0.5mm, SMT, ZIF, Horizontal, Top Contact (WE 68714014022; Molex: 54104-4031)"  
+J9         "Capacitive Touch"    BottomLayer FCC-ZIF_10PIN_0.5MM_LOW_PROFILE 29.8405      13.6100      180      "SMT ZIF Connectors Low Profile WR-FPC, Horizontal, BOT Contact, pitch 0.5 mm, 10 pins" 
+L1         "WE 744222"           BottomLayer WE-SL2                          24.4000      -54.2000     270      "Common Mode line Filter"                                                               
+L2         "22uH - WE 744062220" BottomLayer WE-TPC-6823-X                   -52.8000     -36.2000     90       "Power Inductor"                                                                        
+R1         100K                  BottomLayer 0603_[1608]                     12.5000      39.2000      270      Resistor                                                                                
+R2         22R                   BottomLayer 0603_[1608]                     12.5000      36.5998      270      Resistor                                                                                
+R3         22R                   BottomLayer 0603_[1608]                     6.5000       39.8998      270      Resistor                                                                                
+R4         22R                   BottomLayer 0603_[1608]                     5.2000       39.8998      270      Resistor                                                                                
+R5         22R                   BottomLayer 0603_[1608]                     21.0000      -42.2002     270      Resistor                                                                                
+R6         22R                   BottomLayer 0603_[1608]                     3.9000       39.8998      270      Resistor                                                                                
+R7         22R                   BottomLayer 0603_[1608]                     2.6000       39.8998      270      Resistor                                                                                
+R8         22R                   BottomLayer 0603_[1608]                     27.8000      -42.2002     270      Resistor                                                                                
+R9         56R                   BottomLayer 0603_[1608]                     31.8002      -64.2000     360      Resistor                                                                                
+R10        22R                   BottomLayer 0603_[1608]                     1.3000       39.8998      270      Resistor                                                                                
+R11        56R                   BottomLayer 0603_[1608]                     31.8002      -62.9000     360      Resistor                                                                                
+R12        0R                    BottomLayer 0603_[1608]                     27.8000      -47.1002     270      Resistor                                                                                
+R13        1K                    BottomLayer 0603_[1608]                     21.0000      -47.0998     90       Resistor                                                                                
+R14        120R                  BottomLayer 0603_[1608]                     14.0000      -62.5998     90       Resistor                                                                                
+R15        NP                    BottomLayer 0603_[1608]                     -24.2500     -51.0002     270      Resistor                                                                                
+R16        22R                   BottomLayer 0603_[1608]                     -19.7500     -50.9998     90       Resistor                                                                                
+R17        22R                   BottomLayer 0603_[1608]                     2.7000       -42.1998     90       Resistor                                                                                
+R18        22R                   BottomLayer 0603_[1608]                     4.7000       -53.5002     270      Resistor                                                                                
+R19        NP                    BottomLayer 0603_[1608]                     4.0000       -42.1998     90       Resistor                                                                                
+R20        22R                   BottomLayer 0603_[1608]                     7.9000       -42.1998     90       Resistor                                                                                
+R21        22R                   BottomLayer 0603_[1608]                     6.1000       -53.5002     270      Resistor                                                                                
+R22        10K                   BottomLayer 0603_[1608]                     5.3000       -42.2002     270      Resistor                                                                                
+R23        10K                   BottomLayer 0603_[1608]                     6.6000       -42.2002     270      Resistor                                                                                
+R24        "1R5 1%"              BottomLayer 0603_[1608]                     -62.2500     -36.5002     270      "Resistor 0.125W"                                                                       
+R25        "6R8 1%"              BottomLayer 0603_[1608]                     -60.8000     -36.5002     270      "Resistor 0.125W"                                                                       
+R26        "390K 1%"             BottomLayer 0603_[1608]                     -61.0002     -29.2500     180      Resistor                                                                                
+R27        "820K 1%"             BottomLayer 0603_[1608]                     -60.9998     -30.7500     360      Resistor                                                                                
+R28        "220K 1%"             BottomLayer 0603_[1608]                     -61.0002     -33.7000     180      Resistor                                                                                
+R33        22R                   BottomLayer 0603_[1608]                     -45.3000     -55.6998     90       Resistor                                                                                
+R39        22R                   BottomLayer 0603_[1608]                     -18.5000     -50.9998     90       Resistor                                                                                
+R40        22R                   BottomLayer 0603_[1608]                     -25.7500     -51.0002     270      Resistor                                                                                
+R41        NP                    BottomLayer 0603_[1608]                     -21.2500     -51.0002     270      Resistor                                                                                
+R42        22R                   BottomLayer 0603_[1608]                     -22.7500     -51.0002     270      Resistor                                                                                
+U1         SN65HVD230            BottomLayer SOIC8                           24.4000      -44.5000     270      "3.3V CAN bus transceiver (SN65HVD231; SN65HVD232)"                                     
+U3         ST3232EBDR            BottomLayer SOIC16                          -21.0000     -45.0000     270      "3 to 5.5 V, low power, up to 400 kbps RS-232 driver"                                   
+U4         SN65HVD12             BottomLayer SOIC8                           5.4000       -47.7000     270      "3.3V to RS485 interface"                                                               
+U5         24C128                BottomLayer SOIC8                           10.4996      -15.4998     270      EEPROM                                                                                  
+U6         LT3591EDDB            BottomLayer PQFN50P300X200X75_HS-9L         -58.4000     -36.2000     270      "White LED Driver with Integrated Schottky"                                             
+Y1         16MHz                 BottomLayer CRYSTAL_3.2X2.5MM_4P_SMD        -5.1000      30.0000      90       Crystal                                                                                 
+C23        100nF                 BottomLayer 0603_[1608]                     52.0000      20.7502      90       "Ceramic X7R 50V"                                                                       
