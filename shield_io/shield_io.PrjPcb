@@ -154,199 +154,143 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SEPNTCCA
 
 [GeneratedDocument1]
-DocumentPath=..\Assembly\io_shield\bom-io_shield.csv
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=..\Assembly\shield_display_4.3\bom-shield_display_4.3.xlsx
 DItemRevisionGUID=
 
-[GeneratedDocument3]
-DocumentPath=..\Gerber\io_shield\io_shield.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=..\Gerber\io_shield\io_shield.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=..\Gerber\io_shield\io_shield.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=..\Gerber\io_shield\io_shield.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=..\Gerber\io_shield\io_shield.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=..\Gerber\io_shield\io_shield.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=..\Gerber\io_shield\io_shield.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=..\Gerber\io_shield\io_shield.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=..\Gerber\io_shield\io_shield.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=..\Gerber\io_shield\io_shield.GM7
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=..\Gerber\io_shield\io_shield.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=..\Gerber\io_shield\io_shield.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=..\Gerber\io_shield\io_shield.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=..\Gerber\io_shield\io_shield.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=..\Gerber\io_shield\io_shield.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=..\Gerber\io_shield\io_shield.REP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=..\Gerber\io_shield\io_shield.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=..\Gerber\io_shield\io_shield.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=..\Assembly\io_shield\Pick Place for io_shield.txt
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument2]
 DocumentPath=..\Assembly\shield_display_4.3\Pick Place for shield_display_4.3.txt
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument3]
+DocumentPath=..\Assembly\shield_io\Pick Place for shield_io.txt
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument5]
 DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument25]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GM7
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument37]
+[GeneratedDocument6]
 DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument7]
 DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.REP
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument8]
 DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument40]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.TXT
+[GeneratedDocument9]
+DocumentPath=..\Gerber\shield_io\shield_io.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=..\Gerber\shield_io\shield_io.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=..\Gerber\shield_io\shield_io.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=..\Gerber\shield_io\shield_io.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=..\Gerber\shield_io\shield_io.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=..\Gerber\shield_io\shield_io.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=..\Gerber\shield_io\shield_io.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=..\Gerber\shield_io\shield_io.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=..\Gerber\shield_io\shield_io.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=..\Gerber\shield_io\shield_io.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=..\Gerber\shield_io\shield_io.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=..\Gerber\shield_io\shield_io.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=..\Gerber\shield_io\shield_io.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=..\Gerber\shield_io\shield_io.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=..\Gerber\shield_io\shield_io.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=..\Gerber\shield_io\shield_io.REP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=..\Gerber\shield_io\shield_io.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=..\Gerber\shield_io\shield_io.TXT
 DItemRevisionGUID=
 
 [Parameter1]
-Name=prj_status
-Value=Prototype
+Name=prj_date
+Value=25/08/2019
 
 [Parameter2]
-Name=prj_pn
-Value=-
-
-[Parameter3]
-Name=prj_pcb
-Value=A
-
-[Parameter4]
-Name=prj_name_long
-Value=Input/Output and Analog expation shield for DevelBoard
-
-[Parameter5]
-Name=prj_name
-Value=IO Shield
-
-[Parameter6]
-Name=prj_license
-Value=MIT
-
-[Parameter7]
 Name=prj_hw_ver
 Value=0
 
+[Parameter3]
+Name=prj_license
+Value=MIT
+
+[Parameter4]
+Name=prj_name
+Value=IO Shield
+
+[Parameter5]
+Name=prj_name_long
+Value=Input/Output and Analog expation shield for DevelBoard
+
+[Parameter6]
+Name=prj_pcb
+Value=A
+
+[Parameter7]
+Name=prj_pn
+Value=-
+
 [Parameter8]
-Name=prj_date
-Value=25/08/2019
+Name=prj_status
+Value=Prototype
 
 [Configuration1]
 Name=Default Configuration
@@ -594,18 +538,12 @@ OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=PDF3D
-OutputName9=PDF3D
+OutputType9=PCBDrawing
+OutputName9=Draftsman
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=PCBDrawing
-OutputName10=Draftsman
-OutputDocumentPath10=
-OutputVariantName10=[No Variations]
-OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -668,38 +606,33 @@ OutputName6=Gerber X2 Files
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=IPC2581
-OutputName7=IPC-2581 Files
+OutputType7=Mask
+OutputName7=Solder/Paste Mask Prints
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=Mask
-OutputName8=Solder/Paste Mask Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=NC Drill
+OutputName8=NC Drill Files
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=NC Drill
-OutputName9=NC Drill Files
+OutputType9=ODB
+OutputName9=ODB++ Files
 OutputDocumentPath9=
-OutputVariantName9=
+OutputVariantName9=[No Variations]
 OutputDefault9=0
-OutputType10=ODB
-OutputName10=ODB++ Files
+OutputType10=Plane
+OutputName10=Power-Plane Prints
 OutputDocumentPath10=
-OutputVariantName10=[No Variations]
+OutputVariantName10=
 OutputDefault10=0
-OutputType11=Plane
-OutputName11=Power-Plane Prints
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=Test Points
+OutputName11=Test Point Report
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=Test Points
-OutputName12=Test Point Report
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
 
 [OutputGroup6]
 Name=Report Outputs
@@ -1022,36 +955,6 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
