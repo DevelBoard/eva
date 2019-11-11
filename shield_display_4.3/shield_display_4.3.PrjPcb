@@ -185,6 +185,38 @@ DItemRevisionGUID=
 DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.TXT
 DItemRevisionGUID=
 
+[Parameter1]
+Name=prj_status
+Value=Reference
+
+[Parameter2]
+Name=prj_pn
+Value=-
+
+[Parameter3]
+Name=prj_pcb
+Value=C
+
+[Parameter4]
+Name=prj_name_long
+Value=Shield 4.3'' Display LCD PCAP
+
+[Parameter5]
+Name=prj_name
+Value=Shield 4.3'' Display
+
+[Parameter6]
+Name=prj_license
+Value=MIT
+
+[Parameter7]
+Name=prj_hw_ver
+Value=2
+
+[Parameter8]
+Name=prj_date
+Value=19/01/2016
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
