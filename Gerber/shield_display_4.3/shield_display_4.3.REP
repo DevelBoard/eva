@@ -2,70 +2,6 @@
 FileName = shield_display_4.3.GBR
 AutoAperture = True
 *************************************************************
-Generating : Outline
-      File : shield_display_4.3.GM1
-
-    Adding Layer      : Outline
-
-
-Used DCodes :
-    D10
-    D39
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : shield_display_4.3.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : shield_display_4.3.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D17
-    D19
-    D20
-    D21
-    D22
-    D23
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-*************************************************************
-
-*************************************************************
 Generating : Top Paste
       File : shield_display_4.3.GTP
 
@@ -82,30 +18,17 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Drill Drawing
-      File : shield_display_4.3.GD1
+Generating : Bottom Overlay
+      File : shield_display_4.3.GBO
 
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D52
-    D53
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : shield_display_4.3.GG1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D52
+    D10
+    D11
+    D13
+    D39
 *************************************************************
 
 *************************************************************
@@ -142,52 +65,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : shield_display_4.3.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D13
-    D39
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : shield_display_4.3.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : PCB Note
-      File : shield_display_4.3.GM7
-
-    Adding Layer      : PCB Note
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D39
-    D49
-    D50
-    D51
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : shield_display_4.3.GTL
 
@@ -207,6 +84,130 @@ Used DCodes :
     D27
     D28
     D29
+*************************************************************
+
+*************************************************************
+Generating : Outline
+      File : shield_display_4.3.GM1
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D10
+    D39
+*************************************************************
+
+*************************************************************
+Generating : PCB Note
+      File : shield_display_4.3.GM7
+
+    Adding Layer      : PCB Note
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D39
+    D49
+    D50
+    D51
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : shield_display_4.3.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : shield_display_4.3.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : shield_display_4.3.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : shield_display_4.3.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : shield_display_4.3.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
 *************************************************************
 
 *************************************************************

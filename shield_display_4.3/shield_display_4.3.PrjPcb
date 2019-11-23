@@ -122,48 +122,124 @@ DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.LDP
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.REP
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.REP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
 DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.RUL
 DItemRevisionGUID=
 
+[GeneratedDocument20]
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.TXT
+DItemRevisionGUID=
+
 [Parameter1]
-Name=prj_date
-Value=19/01/2016
+Name=prj_status
+Value=Reference
 
 [Parameter2]
-Name=prj_hw_ver
-Value=2
-
-[Parameter3]
-Name=prj_license
-Value=MIT
-
-[Parameter4]
-Name=prj_name
-Value=Shield 4.3'' Display
-
-[Parameter5]
-Name=prj_name_long
-Value=Shield 4.3'' Display LCD PCAP
-
-[Parameter6]
-Name=prj_pcb
-Value=C
-
-[Parameter7]
 Name=prj_pn
 Value=-
 
+[Parameter3]
+Name=prj_pcb
+Value=C
+
+[Parameter4]
+Name=prj_name_long
+Value=Shield 4.3'' Display LCD PCAP
+
+[Parameter5]
+Name=prj_name
+Value=Shield 4.3'' Display
+
+[Parameter6]
+Name=prj_license
+Value=MIT
+
+[Parameter7]
+Name=prj_hw_ver
+Value=2
+
 [Parameter8]
-Name=prj_status
-Value=Reference
+Name=prj_date
+Value=19/01/2016
+
+[Parameter9]
+Name=pcb_stackup
+Value=Default
+
+[Parameter10]
+Name=pcb_solder_color
+Value=WHITE
+
+[Parameter11]
+Name=pcb_silkscreen_color
+Value=BLACK
+
+[Parameter12]
+Name=pcb_material
+Value=FR4-Standard Tg 130-140C
+
+[Parameter13]
+Name=pcb_layer_count
+Value=2
+
+[Parameter14]
+Name=pcb_finish
+Value=HASL
 
 [Configuration1]
 Name=Default Configuration
@@ -845,6 +921,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
