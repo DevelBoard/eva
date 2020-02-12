@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\asterix\Documents\github\eva01\shield_can-display\shield_can-display.PcbDoc
+DRC Rules Export File for PCB: C:\Users\Asterix\Documents\github\eva01\shield_can-display\shield_can-display.PcbDoc
 RuleKind=Clearance|RuleName=Clearance_gnd|Scope=Board|Minimum=9.84
 RuleKind=Clearance|RuleName=Clearance_shld|Scope=Board|Minimum=31.50
 RuleKind=Clearance|RuleName=Clearance_35|Scope=Board|Minimum=13.78

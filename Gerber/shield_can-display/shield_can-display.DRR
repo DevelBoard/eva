@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: shield_can-display.PcbDoc   23-Nov-19  04:38:19 PM
+NCDrill File Report For: shield_can-display.PcbDoc   12-Feb-20  12:29:57
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,13 +7,13 @@ ASCII RoundHoles File : shield_can-display.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             390       PTH        0.00mm (0.00inch)
+T1      0.3mm (12mil)                                             Round             181       PTH        0.00mm (0.00inch)
 T2      0.9mm (35mil)                                             Round             158       PTH        0.00mm (0.00inch)
 T3      1.09mm (43mil)                                            Round             9         PTH        0.00mm (0.00inch)
 T4      1.4mm (55mil)                                             Round             6         PTH        0.00mm (0.00inch)
 T5      3.2mm (126mil)                                            Round             8         PTH        0.00mm (0.00inch)
 T6      3.26mm (128mil)                                           Round             2         PTH        0.00mm (0.00inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              573
+Totals                                                                              364
 
 Total Processing Time (hh:mm:ss) : 00:00:01

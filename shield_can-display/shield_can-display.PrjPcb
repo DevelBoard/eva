@@ -123,78 +123,102 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=..\Assembly\shield_can-display\Pick Place for shield_can-display.txt
+DocumentPath=..\Assembly\shield_can-display\bom-shield_can-display.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=..\Gerber\shield_can-display\shield_can-display.DRR
+DocumentPath=..\Assembly\shield_can-display\Pick Place for shield_can-display.txt
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=..\Gerber\shield_can-display\shield_can-display.EXTREP
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=..\Gerber\shield_can-display\shield_can-display.GBL
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=..\Gerber\shield_can-display\shield_can-display.GBO
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=..\Gerber\shield_can-display\shield_can-display.GBP
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=..\Gerber\shield_can-display\shield_can-display.GBS
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=..\Gerber\shield_can-display\shield_can-display.GD1
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=..\Gerber\shield_can-display\shield_can-display.GG1
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=..\Gerber\shield_can-display\shield_can-display.GM1
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=..\Gerber\shield_can-display\shield_can-display.GM7
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=..\Gerber\shield_can-display\shield_can-display.GTL
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=..\Gerber\shield_can-display\shield_can-display.GTO
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=..\Gerber\shield_can-display\shield_can-display.GTP
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=..\Gerber\shield_can-display\shield_can-display.GTS
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=..\Gerber\shield_can-display\shield_can-display.LDP
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=..\Gerber\shield_can-display\shield_can-display.REP
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=..\Gerber\shield_can-display\shield_can-display.RUL
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument19]
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.REP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.REP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=..\Gerber\shield_can-display\shield_can-display.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
 DocumentPath=..\Gerber\shield_can-display\shield_can-display.TXT
 DItemRevisionGUID=
 
@@ -208,7 +232,7 @@ Value=-
 
 [Parameter3]
 Name=prj_pcb
-Value=D
+Value=E
 
 [Parameter4]
 Name=prj_name_long
@@ -896,36 +920,6 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
