@@ -1,61 +1,63 @@
 Altium Designer Pick and Place Locations
-C:\Users\asterix\Documents\github\eva01\Assembly\shield_display_4.3\Pick Place for shield_display_4.3.txt
+C:\Users\Asterix\Documents\github\eva01\Assembly\shield_display_4.3\Pick Place for shield_display_4.3.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       23-11-19
-Time:       13:40
-Revision:   223bf3e77d52ec28f4802d657d0dbe8b5bd75efe
+Date:       12-02-20
+Time:       12:37
+Revision:   169f2a4ed689d31f043e6d5b1ae53812ba471e46
 Variant:    No variations
 Units used: mm
 
 Designator Comment             Layer       Footprint                          Center-X(mm) Center-Y(mm) Rotation Description                                                                                               
+J6         CTP                 BottomLayer FCC-ZIF_10PIN_0.5MM_LOW_PROFILE    54.8700      2.3500       180      "Connectors, FPC, SMT ZIF, Low Profile, Horizontal, BOT Contact, pitch 0.5 mm, 10 pins (WE )"             
+C13        100nF               BottomLayer 0603_[1608]                        52.5950      5.6540       90       "Ceramic X7R 10V"                                                                                         
+J5         CTP                 BottomLayer FCC-ZIF_10PIN_0.5MM_LOW_PROFILE    35.0000      1.3572       180      "Connectors, FPC, SMT ZIF, Low Profile, Horizontal, Top Contact, pitch 0.5 mm, 10 pins (WE 687110183622)" 
 SW4        BT2                 TopLayer    TACTILE_SWITCH_6x6MM_SMD           -56.0000     20.0000      0        "Tactile switch smd H=4.3mm 10x6mm (like cod. Farnell 2435308)"                                           
 SW3        BT1                 TopLayer    TACTILE_SWITCH_6x6MM_SMD           -56.0000     -20.0000     0        "Tactile switch smd H=4.3mm 10x6mm (like cod. Farnell 2435308)"                                           
-SW2        RESET               TopLayer    TACTILE_SWITCH_6x6MM_SMD           66.0000      20.0000      180      "Tactile switch smd H=4.3mm 10x6mm (like cod. Farnell 2435308)"                                           
-SW1        BT3                 TopLayer    TACTILE_SWITCH_6x6MM_SMD           66.0000      -20.0000     180      "Tactile switch smd H=4.3mm 10x6mm (like cod. Farnell 2435308)"                                           
+SW2        RESET               TopLayer    TACTILE_SWITCH_6x6MM_SMD           80.0000      20.0000      180      "Tactile switch smd H=4.3mm 10x6mm (like cod. Farnell 2435308)"                                           
+SW1        BT3                 TopLayer    TACTILE_SWITCH_6x6MM_SMD           80.0000      -20.0000     180      "Tactile switch smd H=4.3mm 10x6mm (like cod. Farnell 2435308)"                                           
 R9         22R                 TopLayer    0603_[1608]                        -54.4500     13.0000      0        Resistor                                                                                                  
 R8         22R                 TopLayer    0603_[1608]                        -54.4498     -13.0000     0        Resistor                                                                                                  
-R7         22R                 TopLayer    0603_[1608]                        64.4500      13.0000      180      Resistor                                                                                                  
-R6         22R                 TopLayer    0603_[1608]                        64.4997      -13.0000     180      Resistor                                                                                                  
+R7         22R                 TopLayer    0603_[1608]                        78.4500      13.0000      180      Resistor                                                                                                  
+R6         22R                 TopLayer    0603_[1608]                        78.4997      -13.0000     180      Resistor                                                                                                  
 C12        100nF               TopLayer    0603_[1608]                        -57.5498     13.0000      0        "Ceramic X7R 50V"                                                                                         
 C11        100nF               TopLayer    0603_[1608]                        -57.5500     -13.0000     0        "Ceramic X7R 50V"                                                                                         
-C10        100nF               TopLayer    0603_[1608]                        67.5498      13.0000      180      "Ceramic X7R 50V"                                                                                         
-C9         100nF               TopLayer    0603_[1608]                        67.5500      -13.0000     180      "Ceramic X7R 50V"                                                                                         
+C10        100nF               TopLayer    0603_[1608]                        81.5498      13.0000      180      "Ceramic X7R 50V"                                                                                         
+C9         100nF               TopLayer    0603_[1608]                        81.5500      -13.0000     180      "Ceramic X7R 50V"                                                                                         
 C1         100nF               BottomLayer 0603_[1608]                        29.2650      -29.9697     90       "Ceramic X7R 50V"                                                                                         
 R14        0R                  BottomLayer 0603_[1608]                        30.5650      -21.2200     270      Resistor                                                                                                  
-R28        100k                BottomLayer 0603_[1608]                        -21.7500     6.2502       90       "Resistor 0.125W"                                                                                         
-R27        33R                 BottomLayer 0603_[1608]                        -16.7500     3.2502       90       Resistor                                                                                                  
-R26        33R                 BottomLayer 0603_[1608]                        -18.0161     3.2502       90       Resistor                                                                                                  
-R25        33R                 BottomLayer 0603_[1608]                        -20.5000     3.2502       90       Resistor                                                                                                  
-R24        33R                 BottomLayer 0603_[1608]                        -19.2500     3.2502       90       Resistor                                                                                                  
-R23        NP                  BottomLayer 0603_[1608]                        -20.5000     6.2498       270      "Resistor 0.125W"                                                                                         
-R22        2k2                 BottomLayer 0603_[1608]                        -18.0000     6.2498       270      "Resistor 0.125W"                                                                                         
-R21        2k2                 BottomLayer 0603_[1608]                        -16.7500     6.2498       270      "Resistor 0.125W"                                                                                         
-J4         "Display LCD 4.3''" BottomLayer FCC-ZIF_40PIN_0.5MM_TOP_LOWPROFILE 29.5239      7.5978       180      "Connectors, FPC, SMT ZIF, Low Profile, Horizontal, Top Contact, pitch 0.5 mm, 40 pins (WE 687140183622)" 
-C2         100nF               BottomLayer 0603_[1608]                        -15.2500     3.2502       90       "Ceramic X7R 10V"                                                                                         
-R5         "220K 1%"           BottomLayer 0603_[1608]                        10.3998      1.7500       180      Resistor                                                                                                  
-R4         "820K 1%"           BottomLayer 0603_[1608]                        10.4002      -0.8500      360      Resistor                                                                                                  
-R3         "390K 1%"           BottomLayer 0603_[1608]                        10.3998      0.4500       180      Resistor                                                                                                  
-R2         "10R 1%"            BottomLayer 0603_[1608]                        10.1000      6.1502       90       "Resistor 0.125W"                                                                                         
-L1         "22uH WE 744062220" BottomLayer WE-TPC-6823-X                      1.8000       5.8500       270      "Power Inductor"                                                                                          
-C8         100nF               BottomLayer 0603_[1608]                        10.4002      3.0500       360      "Ceramic X7R 50V"                                                                                         
-C7         100nF               BottomLayer 0603_[1608]                        20.0097      10.6000      180      "Ceramic X5R 6.3V, 10V"                                                                                   
-C6         100nF               BottomLayer 0603_[1608]                        11.4497      9.0248       270      "Ceramic X7R 50V"                                                                                         
-C5         2.2uF               BottomLayer 1210_[3225]                        13.7500      8.3000       270      "Ceramic X7R, X5R 50V"                                                                                    
-C4         1uF                 BottomLayer 0603_[1608]                        7.0998       1.7500       180      "Ceramic X7R, X5R 16V"                                                                                    
-C3         100nF               BottomLayer 0603_[1608]                        7.0998       3.0500       180      "Ceramic X7R 50V"                                                                                         
+R28        100k                BottomLayer 0603_[1608]                        43.2661      13.0263      90       "Resistor 0.125W"                                                                                         
+R27        33R                 BottomLayer 0603_[1608]                        47.0161      9.2759       90       Resistor                                                                                                  
+R26        33R                 BottomLayer 0603_[1608]                        45.7500      9.2759       90       Resistor                                                                                                  
+R25        33R                 BottomLayer 0603_[1608]                        43.2661      9.2759       90       Resistor                                                                                                  
+R24        33R                 BottomLayer 0603_[1608]                        44.5161      9.2759       90       Resistor                                                                                                  
+R23        NP                  BottomLayer 0603_[1608]                        44.5161      13.0259      270      "Resistor 0.125W"                                                                                         
+R22        2k2                 BottomLayer 0603_[1608]                        45.7500      13.0259      270      "Resistor 0.125W"                                                                                         
+R21        2k2                 BottomLayer 0603_[1608]                        47.0000      13.0259      270      "Resistor 0.125W"                                                                                         
+J4         "Display LCD 4.3''" BottomLayer FCC-ZIF_40PIN_0.5MM_TOP_LOWPROFILE -11.9762     7.5978       180      "Connectors, FPC, SMT ZIF, Low Profile, Horizontal, Top Contact, pitch 0.5 mm, 40 pins (WE 687140183622)" 
+C2         100nF               BottomLayer 0603_[1608]                        38.2912      5.6290       90       "Ceramic X7R 10V"                                                                                         
+R5         "220K 1%"           BottomLayer 0603_[1608]                        7.8669       11.0503      360      Resistor                                                                                                  
+R4         "820K 1%"           BottomLayer 0603_[1608]                        7.8665       13.6503      180      Resistor                                                                                                  
+R3         "390K 1%"           BottomLayer 0603_[1608]                        7.8669       12.3503      360      Resistor                                                                                                  
+R2         "10R 1%"            BottomLayer 0603_[1608]                        8.1667       6.6502       270      "Resistor 0.125W"                                                                                         
+L1         "22uH WE 744062220" BottomLayer WE-TPC-6823-X                      16.4667      6.9503       90       "Power Inductor"                                                                                          
+C8         100nF               BottomLayer 0603_[1608]                        7.8665       9.7503       180      "Ceramic X7R 50V"                                                                                         
+C7         100nF               BottomLayer 0603_[1608]                        -22.6903     10.4878      180      "Ceramic X5R 6.3V, 10V"                                                                                   
+C6         100nF               BottomLayer 0603_[1608]                        5.7500       3.7502       90       "Ceramic X7R 50V"                                                                                         
+C5         2.2uF               BottomLayer 1210_[3225]                        8.1667       3.0755       90       "Ceramic X7R, X5R 50V"                                                                                    
+C4         1uF                 BottomLayer 0603_[1608]                        11.1669      11.0503      360      "Ceramic X7R, X5R 16V"                                                                                    
+C3         100nF               BottomLayer 0603_[1608]                        11.1669      9.7503       360      "Ceramic X7R 50V"                                                                                         
 J1         "EVA01 - TOP"       BottomLayer SOCKET_2x26_2.54MM_THD             -32.0599     0.0102       90       "Socket Header, 52 pin, 26x2, 2.54mm, H=8.5mm"                                                            
 J2         "EVA01 - LEFT"      BottomLayer SOCKET_2x26_2.54MM_THD             8.5802       -35.5600     360      "Socket Header, 52 pin, 26x2, 2.54mm, H=8.5mm"                                                            
 J3         "EVA01 - RIGHT"     BottomLayer SOCKET_2x26_2.54MM_THD             8.5799       35.5600      360      "Socket Header, 52 pin, 26x2, 2.54mm, H=8.5mm"                                                            
 U1         24C128              BottomLayer SOIC8                              32.5000      -27.2500     270      EEPROM                                                                                                    
-U2         LT3591EDDB          BottomLayer PQFN50P300X200X75_HS-9L            7.5000       5.8500       90       "White LED Driver with Integrated Schottky"                                                               
-R1         NP                  BottomLayer 0603_[1608]                        11.5000      6.1502       90       "Resistor 0.125W"                                                                                         
+U2         LT3591EDDB          BottomLayer PQFN50P300X200X75_HS-9L            10.7667      6.9503       270      "White LED Driver with Integrated Schottky"                                                               
+R1         NP                  BottomLayer 0603_[1608]                        6.7667       6.6502       270      "Resistor 0.125W"                                                                                         
 R15        NP                  BottomLayer 0603_[1608]                        31.8650      -21.2200     270      Resistor                                                                                                  
 R16        NP                  BottomLayer 0603_[1608]                        35.7650      -21.2200     270      Resistor                                                                                                  
 R17        NP                  BottomLayer 0603_[1608]                        29.2650      -21.2200     270      Resistor                                                                                                  
 R18        0R                  BottomLayer 0603_[1608]                        33.1650      -21.2200     270      Resistor                                                                                                  
 R19        0R                  BottomLayer 0603_[1608]                        34.4650      -21.2200     270      Resistor                                                                                                  
-R20        1K                  BottomLayer 0603_[1608]                        10.4002      -2.1500      360      Resistor                                                                                                  
-J5         CTP                 BottomLayer FCC-ZIF_10PIN_0.5MM_LOW_PROFILE    -18.5411     -0.7062      180      "Connectors, FPC, SMT ZIF, Low Profile, Horizontal, Top Contact, pitch 0.5 mm, 10 pins (WE 687110183622)" 
+R20        1K                  BottomLayer 0603_[1608]                        7.8665       14.9503      180      Resistor                                                                                                  

@@ -106,82 +106,106 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=..\Assembly\shield_display_4.3\bom-shield_display_4.3.xlsx
+DocumentPath=..\Assembly\shield_display_4.3\bom-shield_display_4.3.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=..\Assembly\shield_display_4.3\Pick Place for shield_display_4.3.txt
+DocumentPath=..\Assembly\shield_display_4.3\bom-shield_display_4.3.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.DRR
+DocumentPath=..\Assembly\shield_display_4.3\Pick Place for shield_display_4.3.txt
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.EXTREP
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GBL
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GBO
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GBP
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GBS
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GD1
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GG1
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GM1
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GM7
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GTL
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GTO
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GTP
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GTS
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.LDP
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.REP
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.RUL
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument20]
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.REP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
 DocumentPath=..\Gerber\shield_display_4.3\shield_display_4.3.TXT
 DItemRevisionGUID=
 
@@ -195,7 +219,7 @@ Value=-
 
 [Parameter3]
 Name=prj_pcb
-Value=C
+Value=D
 
 [Parameter4]
 Name=prj_name_long
@@ -921,36 +945,6 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
